@@ -1,0 +1,679 @@
+items,Items_id,Sub Category,Items_Category,Price,Discount,Rating,No_of_Review,BuyingProspect
+"David’s Cookies Mile High Peanut Butter Cake, 6.8 lbs (14 Servings)",1,Bakery & Desserts,1,56.99,0,4.3,265,1139.5
+"The Cake Bake Shop 8"" Round Carrot Cake (16-22 Servings)",2,Bakery & Desserts,1,159.99,0,5,1,5
+"St Michel Madeleine, Classic French Sponge Cake 100 - count",3,Bakery & Desserts,1,44.99,0,4.1,441,1808.1
+"David's Cookies Butter Pecan Meltaways 32 oz, 2-pack",4,Bakery & Desserts,1,39.99,0,4.7,9459,44457.3
+"David’s Cookies Premier Chocolate Cake, 7.2 lbs (Serves 14)",5,Bakery & Desserts,1,59.99,0,4.5,758,3411
+David's Cookies Mango & Strawberry Cheesecake 2-count (28 Slices Total),6,Bakery & Desserts,1,59.99,0,4.4,369,1623.6
+"La Grande Galette French Butter Cookies, 1.3 lb, 6-pack",7,Bakery & Desserts,1,74.99,0,4.7,2241,10532.7
+"David's Cookies No Sugar Added Cheesecake & Marble Truffle Cake, 2-pack (28 Slices Total)",8,Bakery & Desserts,1,59.99,0,4.4,232,1020.8
+David's Cookies Brownie and Cookie Combo Pack,9,Bakery & Desserts,1,29.99,0,4.4,1679,7387.6
+"The Cake Bake Shop 8"" Round Chocolate Cake (16-22 Servings)",10,Bakery & Desserts,1,159.99,0,5,2,10
+"David's Cookies 10"" Rainbow Cake  (12 Servings)",11,Bakery & Desserts,1,62.99,0,4,357,1428
+The Cake Bake Shop 2 Tier Special Occasion Cake (16-22 Servings),12,Bakery & Desserts,1,299.99,0,3,1,3
+David's Cookies 90-piece Gourmet Chocolate Chunk Frozen Cookie Dough,13,Bakery & Desserts,1,54.99,0,4.7,273,1283.1
+"David's Cookies Chocolate Fudge Birthday Cake, 3.75 lbs.  Includes Party Pack (16 Servings)",14,Bakery & Desserts,1,54.99,0,4.6,369,1697.4
+Ferrara’s Bakery New York Cheesecake 2-pack,15,Bakery & Desserts,1,89.99,0,4.6,133,611.8
+"David’s Cookies Variety Cheesecakes, 2-pack (28 Slices Total)",16,Bakery & Desserts,1,59.99,0,4.5,452,2034
+"Classic Cake Tiramisu Quarter Sheet Cake (14 Pre-Cut Total Slices, 4.57 Oz. Per Slice, 4 Lbs. Total Box)",17,Bakery & Desserts,1,89.99,0,0,0,0
+Mary Macleod's Gluten Free Shortbread Cookies Mixed Assortment 8-Pack ,18,Bakery & Desserts,1,49.99,0,4.2,85,357
+"The Cake Bake Shop 8"" Round Pixie Fetti Cake (16-22 Servings)",19,Bakery & Desserts,1,159.99,0,1.5,2,3
+"Classic Cake Chocolate Entremet Quarter Sheet Cake (14 Pre-Cut Total Slices, 4 Oz. Per Slice, 3.5 Lbs. Total Box)",20,Bakery & Desserts,1,89.99,0,0,0,0
+"Ferrara’s Bakery 8 in. Tiramisu Cake, 2-pack",21,Bakery & Desserts,1,99.99,0,3.6,5,18
+"Classic Cake Limoncello Quarter Sheet Cake (14 Pre-Cut Total Slices, 4 Oz. Per Slice, 3.5 Lbs Total Box)",22,Bakery & Desserts,1,89.99,0,3,2,6
+deMilan Panettone Classico Tin Cake 2.2 lb Tin,23,Bakery & Desserts,1,24.99,0,4.7,687,3228.9
+David’s Cookies Decadent Triple Chocolate made with mini Hershey’s Kisses and Reese’s Peanut Butter Cup Cookies Tin – 2 Count,24,Bakery & Desserts,1,39.99,0,4.3,845,3633.5
+Ferrara's Bakery 4 lbs. Italian Cookie Pack,25,Bakery & Desserts,1,72.99,0,4.3,87,374.1
+"Ferrara's Bakery 48 Mini Cannoli's (24 Plain Filled and 24 Hand Dipped Belgian Chocolate) - 1.5"" to 2"" In Length",26,Bakery & Desserts,1,119.99,0,2.2,4,8.8
+Ferrara's Bakery 24 Large Cannoli's (12 Plain Filled and 12 Hand Dipped Belgian Chocolate),27,Bakery & Desserts,1,109.99,0,4.2,181,760.2
+"Mary Macleod’s Shortbread, Variety Tin, 3-pack, 24 cookies per tin",28,Bakery & Desserts,1,99.99,0,4,16,64
+Ferrara's Bakery Rainbow Cookies 1.5 lb,29,Bakery & Desserts,1,34.99,0,4.5,702,3159
+Ferrara's Bakery 2 lb Italian Cookie Tray and Struffoli,30,Bakery & Desserts,1,59.99,0,4.2,137,575.4
+"Tootie Pie 11"" Heavenly Chocolate Pie, 2- pack ",31,Bakery & Desserts,1,89.99,0,3,5,15
+"Tootie Pie 11"" Whiskey Pecan Pie, 2-pack",32,Bakery & Desserts,1,89.99,0,0,0,0
+"Tootie Pie 11"" Huge Original Apple Pie",33,Bakery & Desserts,1,59.99,0,0,0,0
+"Pulp & Press Organic Cold-Pressed Wellness Shot Pack, 48-pack",34,Beverages & Water,2,99.99,30,4.5,28,126
+"Kirkland Signature Bottled Water 16.9 fl oz, 40-count, 48 Case Pallet",35,Beverages & Water,2,439.99,0,4.3,1957,8415.1
+Pulp and Press 3-Day Organic Cold Pressed Juice Cleanse,36,Beverages & Water,2,89.99,20,4.4,40,176
+"Olipop 12 oz Prebiotics Soda Variety Pack, 24 Count",37,Beverages & Water,2,54.99,0,4.8,33,158.4
+"Joyburst Energy Variety, 12 fl oz, 18-count",38,Beverages & Water,2,32.99,0,5,1,5
+"Starbucks Classic Hot Cocoa Mix 30 oz, 2-pack",39,Beverages & Water,2,34.99,0,4.5,1911,8599.5
+"VitaCup Green Tea Instant Packets with Matcha, Enhance Energy & Detox, 2-pack (48-count total)",40,Beverages & Water,2,39.99,0,4,138,552
+"Sencha Naturals Everyday Matcha Green Tea Powder, 3-pack",41,Beverages & Water,2,49.99,0,4.8,1150,5520
+Vonbee Honey Citron & Ginger Tea 4.4 lb 2-pack,42,Beverages & Water,2,34.99,0,4.7,2340,10998
+"100% Spring Water, 2.5 Gallon, 2-count, 48 Case Pallet",43,Beverages & Water,2,549.99,0,3.6,15,54
+"Tiesta Tea Blueberry Wild Child, 2 - 1 Pound Bags & 5.5oz Tin",44,Beverages & Water,2,59.99,0,4.8,312,1497.6
+"Pressed Cold-Pressed Juice & Shot Bundle -18 Bottles, 9 Juices & 9 Shots",45,Beverages & Water,2,69.99,0,4,777,3108
+Pressed 3-Day Cleanse Bundle (18 Juices & 6 Shots),46,Beverages & Water,2,99.99,0,4.1,753,3087.3
+"Pressed 5-day Cleanse Bundle - 40 bottles, 30 Juices, and 10 Shots",47,Beverages & Water,2,139.99,0,3.8,49,186.2
+Pulp and Press 5-Day Organic Cold Pressed Juice Cleanse,48,Beverages & Water,2,159.99,0,4.3,210,903
+"Pulp & Press Organic Cold-Pressed Juice Variety Pack, 18-pack",49,Beverages & Water,2,99.99,0,5,6,30
+Tiesta Tea Loose Leaf Tea Variety 3-Pack (16 oz each),50,Beverages & Water,2,69.99,0,4.9,62,303.8
+"Pressed Cold-Pressed Greens, Roots & Citrus Bundle  (12 oz) 15-count",51,Beverages & Water,2,74.99,0,4.3,354,1522.2
+"Joyburst Hydration Drink, Variety Pack, 12 fl oz, 24-count ",52,Beverages & Water,2,54.99,0,4.7,6,28.2
+"Pressed 3-day Beginner Cleanse Bundle  - 24 bottles, 18 Juice and  6 Shots",53,Beverages & Water,2,99.99,0,4,35,140
+"Ready Sports Drink Light, Mango Lemonade, 16.9 fl oz, 12-count",54,Beverages & Water,2,24.99,0,4,3,12
+"Cherry Bay Orchards Tart Cherry Concentrate 32 fl. oz., 2-pack",55,Beverages & Water,2,39.99,0,4.8,1251,6004.8
+Pressed 36-count (2 oz) Wellness Shots ,56,Beverages & Water,2,89.99,0,4.2,90,378
+"Joyburst Energy Drink, Frose Rose, 12 fl oz, 12-count",57,Beverages & Water,2,24.49,0,3.7,21,77.7
+NuTrail Keto Nut Granola Blueberry Cinnamon 2-Pack (22 oz each),58,Breakfast,3,28.99,8,4.8,1275,6120
+NuTrail Keto Nut Granola Honey Nut 2-pack (22 oz. each),59,Breakfast,3,36.99,0,4.7,149,700.3
+"Utah Truffles Dark Chocolate Truffles With Sea Salt 16 oz, 2-pack",60,Candy,4,29.99,0,4.8,227,1089.6
+"Utah Truffle Milk Chocolate Mint Truffles 16 oz, 2-pack",61,Candy,4,29.99,0,4.9,761,3728.9
+"Chocolate Moonshine Co. Belgian Artisan Chocolate Caramel Biscuit Bark, 20 oz.",62,Candy,4,44.99,0,0,0,0
+"Bouchard Belgian Napolitains Premium Dark Chocolate 32 oz,  2-pack",63,Candy,4,49.99,0,4.7,1452,6824.4
+"Ghirardelli Chocolate Squares Premium Chocolate Assortment, 23.8 oz",64,Candy,4,18.99,0,4.7,601,2824.7
+Godiva Masterpieces Assortment of Legendary Milk Chocolate 14.9 oz 4-Pack,65,Candy,4,54.99,0,4.7,228,1071.6
+"Kiss My Keto Gummy Candy Fish Friends, 6-count, 2-pack",66,Candy,4,32.99,0,4,12,48
+"Chocolate Moonshine Co. Belgian Artisan Black Cherry Bourbon Bark, 20 oz.",67,Candy,4,44.99,0,2.5,2,5
+"Kiss My Keto Gummies Tropical Rings, 6-count, 2-pack",68,Candy,4,32.99,0,3.4,7,23.8
+Godiva Assorted Chocolate Gold Collection Gift Box 36-pieces,69,Candy,4,46.99,0,4.6,165,759
+"Sanders Dark Chocolate Sea Salt Caramels 36 oz., 2-pack",70,Candy,4,34.99,0,4.6,6766,31123.6
+"Sanders Milk Chocolate Sea Salt Caramels 36 oz., 2-pack",71,Candy,4,34.99,0,4.7,2848,13385.6
+"Truffettes de France Cocoa Truffles 16 oz, 4-pack",72,Candy,4,34.99,0,4.6,345,1587
+Page Not Found!,73,Candy,4,18.99,0,4.7,68,319.6
+"A'cappella Caramel Ensemble, 3.25 oz, 8-count",74,Candy,4,42.99,0,3,8,24
+Sanders Dark Chocolate Sea Salt Bourbon 2-pack (36 oz.),75,Candy,4,34.99,0,0,0,0
+"Mrs. Calls Kettle Cooked Sea Salt Soft Caramels 25 oz, 2-pack",76,Candy,4,34.99,0,4.7,35,164.5
+"Chocolate Moonshine Fudge, 6 count Variety Party Pack, 3 lbs Total",77,Candy,4,39.99,0,4.2,11,46.2
+"Popcornopolis Pumpkin Spice Cone, 4.5 oz, 12 pack",78,Candy,4,54.99,0,4,1,4
+"A'cappella Knotty Grahams Ensemble, 4.5 oz, 8-count",79,Candy,4,42.99,0,3.4,14,47.6
+"A'cappella Bark Ensemble, 3.4 oz, 8-count",80,Candy,4,42.99,0,3.8,12,45.6
+Godiva Dark Chocolate Ganache Hearts 14.8 oz 4-pack,81,Candy,4,54.99,0,0,0,0
+Ghirardelli Chocolate Assortment Valentine's Duet Hearts. 15.2 oz. ,82,Candy,4,17.99,0,0,0,0
+"Nellie’s Laundry Soda, 400 Loads",83,Cleaning Supplies,5,42.99,12,4.8,2658,12758.4
+Nellie’s Laundry Starter Pack,84,Cleaning Supplies,5,54.99,0,4.6,386,1775.6
+"Nellie’s Baby Laundry Soda, 500 Loads",85,Cleaning Supplies,5,89.99,0,4.7,3,14.1
+"Nellie's Laundry Nuggets, 350 Loads",86,Cleaning Supplies,5,84.99,0,4.3,19,81.7
+"Nellie's Laundry Soda, 800 Loads",87,Cleaning Supplies,5,89.99,0,4.8,1171,5620.8
+"ECOS HE Laundry Detergent Sheets, Free & Clear, 100 Loads, 100 Sheets, 2-count",88,Cleaning Supplies,5,38.99,0,4.6,308,1416.8
+"ECOS HE Liquid Laundry Detergent, Magnolia & Lily, 210 Loads, 210 fl oz, 2-count",89,Cleaning Supplies,5,38.99,0,4.7,1064,5000.8
+"Boulder Clean Laundry Detergent Sheets, Free & Clear, 160 Loads, 80 Sheets",90,Cleaning Supplies,5,29.99,0,4.4,112,492.8
+"ECOS HE Liquid Laundry Detergent, Free & Clear, 210 Loads, 210 fl oz, 2-count",91,Cleaning Supplies,5,38.99,0,4.7,2060,9682
+"The Unscented Company Liquid Laundry Detergent Refill Box, 400 Loads, 337.92 fl oz",92,Cleaning Supplies,5,44.99,0,0,0,0
+"MyEcoWorld 13-gallon Compostable Food Waste Bag, 72-count",93,Cleaning Supplies,5,36.99,0,3.3,3,9.9
+"MyEcoWorld 3-gallon Compostable Food Waste Bag, 150-count",94,Cleaning Supplies,5,29.89,0,4.7,12,56.4
+"The Unscented Company HE Liquid Laundry Detergent Bottle & Refill Box, 478 Loads, 403.82 fl oz",95,Cleaning Supplies,5,54.99,0,4.2,29,121.8
+Nellie's Dish Butter Bundle,96,Cleaning Supplies,5,39.99,0,3.7,31,114.7
+"Clorox Clean-Up All Purpose Cleaner with Bleach, Original, 32 oz & 180 oz Refill",97,Cleaning Supplies,5,22.99,0,4.6,1571,7226.6
+"Boulder Clean Liquid Laundry Detergent, Citrus Breeze, 200 loads, 200 fl oz",98,Cleaning Supplies,5,24.99,0,4.5,116,522
+"The Unscented Company Liquid Dish Soap Refill Box, 337.92 fl oz",99,Cleaning Supplies,5,41.99,0,4.9,12,58.8
+"The Unscented Company Laundry Tabs, 300 Loads",100,Cleaning Supplies,5,74.99,0,2.3,3,6.9
+"Scotch-Brite Lint Roller, 95-count, 5-pack",101,Cleaning Supplies,5,17.89,3.1,4.7,896,4211.2
+Nellie's Wow Mop Starter Kit,102,Cleaning Supplies,5,199.99,0,4.5,426,1917
+"The Unscented Company Liquid Dish Soap Bottle & Refill Box, 363.22 fl oz",103,Cleaning Supplies,5,49.99,0,4.4,183,805.2
+"Nellie's Dishwasher Nuggets, 150-count",104,Cleaning Supplies,5,59.99,0,4.4,19,83.6
+"Boulder Clean Disinfectant Cleaner, Fresh Lemon, 128 fl oz",105,Cleaning Supplies,5,23.99,0,3.7,55,203.5
+"Bona Hardwood Floor Cleaner, Original, 32 fl oz & 128 fl oz Ready-To-Use Refill",106,Cleaning Supplies,5,29.99,0,4.8,997,4785.6
+"Febreze Air Refresher, Variety Pack, 8.8 oz, 4-count",107,Cleaning Supplies,5,18.49,0,4.6,403,1853.8
+Twist & Shout Spin Mop & Bucket System with 1 Refill,108,Cleaning Supplies,5,47.99,0,4.1,164,672.4
+"Puracy Surface Cleaner, 25 fl oz, 3-count",109,Cleaning Supplies,5,24.99,0,4.7,23,108.1
+"Lysol Disinfectant Spray, Crisp Linen, 19 oz, 3-count",110,Cleaning Supplies,5,22.99,0,4.7,1044,4906.8
+"Dr. Jacobs Naturals Pure Castile Soap, Variety Pack, 32 oz, 3-count",111,Cleaning Supplies,5,34.99,0,3.8,192,729.6
+"Poo-Pourri Toilet Spray, Variety Pack, 3.4 fl oz, 3-count",112,Cleaning Supplies,5,26.99,0,4.7,827,3886.9
+"Dr. Jacobs Naturals Pure Castile Soap, Variety Pack, 32 oz, 3-count",113,Cleaning Supplies,5,34.99,0,3.8,20,76
+"Nellie’s Bulk Oxygen Brightener, 8.75 lbs",114,Cleaning Supplies,5,43.99,0,4.5,355,1597.5
+"Nellie's Floor Care, 25 fl oz, 3-count",115,Cleaning Supplies,5,33.99,0,4.7,96,451.2
+"Nellie's Lamby Dryerballs, 4-count, 2-pack",116,Cleaning Supplies,5,39.99,0,4.7,198,930.6
+Clorox ToiletWand Disposable Toilet Cleaning System with 36 Refills,117,Cleaning Supplies,5,21.99,0,4.7,1114,5235.8
+"The Unscented Company Dryer Balls, 6-count",118,Cleaning Supplies,5,34.99,0,4.9,7,34.3
+"The Unscented Company Dishwasher Tabs, 500-count",119,Cleaning Supplies,5,89.99,0,4.8,53,254.4
+"The Unscented Company Dishwasher Tabs, 30-count, 4-pack",120,Cleaning Supplies,5,29.99,0,4.5,194,873
+"Kirkland Signature Organic Ethiopia Whole Bean Coffee, 2 lbs",121,Coffee,6,19.99,0,4.5,1087,4891.5
+"Kirkland Signature Organic Colombian Decaf Whole Bean Coffee, 2 lbs",122,Coffee,6,18.99,0,4.4,2061,9068.4
+"Kirkland Signature Organic Sumatra Whole Bean Coffee, 2 lbs, 2-pack",123,Coffee,6,42.99,0,4,306,1224
+"Kirkland Signature Rwandan Coffee 3 lb, 2-pack",124,Coffee,6,37.99,0,4.7,1903,8944.1
+"Kirkland Signature Sumatran Whole Bean Coffee 3 lb, 2-pack",125,Coffee,6,44.99,0,4.7,2458,11552.6
+"Peet's Coffee Major Dickason's Blend Whole Bean, 10.5 oz Bags, 6-pack",126,Coffee,6,42.99,0,4.7,361,1696.7
+"Kirkland Signature Costa Rica Coffee 3 lb, 2-pack",127,Coffee,6,37.99,0,4.7,2762,12981.4
+"Kirkland Signature USDA Organic Whole Bean Blend 2 lb, 2-pack",128,Coffee,6,29.99,0,4.6,2428,11168.8
+"Mayorga Buenos Días, USDA Organic, Light Roast, Whole Bean Coffee, 2lb, 2-pack",129,Coffee,6,39.99,0,4.5,217,976.5
+"Peet's Coffee Decaf Major Dickason's Ground, 10.5 oz Bags, 6-pack",130,Coffee,6,42.99,0,4.7,534,2509.8
+Ruta Maya Organic Jiguaní Whole Bean Coffee 5 lb,131,Coffee,6,47.99,0,4.7,631,2965.7
+"Peet's Coffee Big Bang Ground, 10.5 oz Bags, 6-pack",132,Coffee,6,42.99,0,4.7,244,1146.8
+"Jose’s Vanilla Nut Whole Bean Coffee 3 lb, 2-pack",133,Coffee,6,44.99,0,4.7,1664,7820.8
+"Cometeer Dark Roast Coffee, 56 Frozen Capsules",134,Coffee,6,99.99,0,4.7,13,61.1
+Ruta Maya Organic Medium Roast Whole Bean Coffee 5 lb,135,Coffee,6,44.99,0,4.7,2525,11867.5
+"San Francisco Bay Organic Rainforest Blend Whole Bean Coffee 3 lbs, 2-pack",136,Coffee,6,56.99,0,4.7,1353,6359.1
+"Jose’s 100% Colombia Supremo Whole Bean Coffee, Medium, 3lbs, 2-pack",137,Coffee,6,44.99,0,0,0,0
+"Jose’s 100% Organic Mayan Whole Bean Coffee 2.5 lb, 2-pack",138,Coffee,6,44.99,0,4.6,1822,8381.2
+"San Francisco French Roast Whole Bean Coffee 3 lb, 2-pack",139,Coffee,6,34.99,10,4.8,2468,11846.4
+"Copper Moon Costa Rica Blend, Medium Roast Whole Bean Coffee, 2 lb Bags, 2-Pack",140,Coffee,6,34.99,0,3.9,85,331.5
+"Mayorga Café Cubano Roast, USDA Organic, Dark Roast, Whole Bean Coffee, 2lb, 2-pack",141,Coffee,6,39.99,0,4.7,1948,9155.6
+"Mayorga Decaf Café Cubano Roast, USDA Organic, Dark Roast, Whole Bean Coffee, 2lb, 2-pack",142,Coffee,6,39.99,0,4.6,424,1950.4
+"San Francisco Bay Coffee Light Roast Cold Brew Coarse Ground Coffee, 28 oz, 2-pack",143,Coffee,6,39.99,0,4.6,14,64.4
+"Parisi Artisan Coffee Bolivian Organic Blend Whole Bean 2 lb, 2-pack",144,Coffee,6,36.99,0,4.3,462,1986.6
+"VitaCup Slim Instant Coffee Packets, Boost Diet & Metabolism, 30-count",145,Coffee,6,29.99,0,4.1,107,438.7
+"Caffe Vita Coffee Caffe Del Sol Blend Whole Bean, Medium Roast, 2 lb. bags, 2-pack",146,Coffee,6,59.99,0,4.2,55,231
+"San Francisco Bay Decaf French Roast Whole Bean Coffee 2 lb, 2-pack",147,Coffee,6,34.99,0,4.6,812,3735.2
+"Caffe Vita Coffee Theo Blend Whole Bean, Medium-Dark Roast, 2 lb. bags, 2-pack ",148,Coffee,6,59.99,0,4.5,53,238.5
+"Caffe Vita Caffe Luna French Roast Whole Bean, Dark Roast, 2 lb. bags, 2-pack",149,Coffee,6,59.99,0,4.3,27,116.1
+"Ruta Maya Decaffeinated Coffee 2.2 lb, 2-pack",150,Coffee,6,44.99,0,4.7,1180,5546
+"San Francisco Bay Coffee Organic Rainforest Blend Ground 28oz, 2-pack",151,Coffee,6,39.99,0,4.5,147,661.5
+"Mayorga Organics Mayan Blend, USDA Organic, Medium Roast, Whole Bean Coffee, 2lb, 2-pack",152,Coffee,6,39.99,0,4.6,531,2442.6
+"VitaCup Shroom Fuel Mushroom Based Coffee Alternative Packets, 2-pack, Total 48 Counts",153,Coffee,6,39.99,0,3.7,18,66.6
+"Mayorga Organic Winter Blend, USDA Organic, Dark Roast, Whole Bean Coffee, 2lb, 2-pack",154,Coffee,6,39.99,0,4.6,355,1633
+"Ruta Maya Organic Dark Roast Coffee, 5 lbs",155,Coffee,6,44.99,0,4.8,2216,10636.8
+"Mother Earth Organic Medium Roast Coffee 2 lb, 2-pack",156,Coffee,6,39.99,0,4.5,1046,4707
+"Jose's Hazelnut Cream Medium Roast Whole Bean 2 lbs, 2-Pack",157,Coffee,6,39.99,0,4.4,129,567.6
+"Kirkland Signature Guatemalan Coffee 3 lb, 2-pack",158,Coffee,6,42.99,0,4.4,1278,5623.2
+Tsar Nicoulai Baerii Caviar 2 oz. Gift Set,159,Deli,7,99.99,30,4.4,89,391.6
+Tsar Nicoulai Classic White Sturgeon Caviar 2 oz Gift Set,160,Deli,7,119.99,0,4.5,220,990
+"Plaza Osetra Farmed Bulgarian Sturgeon Caviar 2 oz, 3-pack",161,Deli,7,199.99,50,4.6,2452,11279.2
+"Giordano's Chicago Frozen 10"" Deep Dish Stuffed Pizza, 3-pack",162,Deli,7,89.99,0,4.2,811,3406.2
+Tsar Nicoulai Estate White Sturgeon Caviar 4.4 oz,163,Deli,7,149.99,50,4.4,226,994.4
+"D'Artagnan 13-piece Gourmet Roasting Ham & Luxury Charcuterie Gift Box, 12.5 lbs",164,Deli,7,199.99,0,4.5,1307,5881.5
+"Covap Jamon Iberico Bellota Ham Leg with Stand and Knife, 15.4 lbs. ",165,Deli,7,649.99,0,4.6,516,2373.6
+"Plaza Golden Osetra Caviar Kilo Pack, 35.2 oz",166,Deli,7,1999.99,0,5,2,10
+"Plaza Osetra Farmed Bulgarian Sturgeon Caviar, 2 oz Gift Set",167,Deli,7,124.99,0,4.5,996,4482
+"D'Artagnan 18-month Aged Boneless Spanish Serrano Ham, 9.5 lbs",168,Deli,7,249.99,0,4.5,1466,6597
+"Tsar Nicoulai Baerii Caviar 2 oz, 3-pack",169,Deli,7,249.99,0,4.4,451,1984.4
+"Pacific Plaza Golden Osetra Caviar 2 oz, 2-pack",170,Deli,7,279.99,0,4.4,348,1531.2
+Tsar Nicoulai Caviar Tasting Flight Gift Set ,171,Deli,7,249.99,0,4.2,42,176.4
+"Tsar Nicoulai Estate Classic White Sturgeon Caviar 2 oz, 3-pack",172,Deli,7,199.99,0,4.5,261,1174.5
+Plaza Golden Osetra 2 oz Caviar Gift Set,173,Deli,7,169.99,0,4.5,268,1206
+"Plaza Golden Osetra Caviar, 8.8 oz",174,Deli,7,549.99,0,4.7,79,371.3
+Plaza Osetra Kilo Caviar Pack,175,Deli,7,1399.99,0,4.6,57,262.2
+"Plaza Osetra Farmed Bulgarian Sturgeon Caviar, 8.8 oz ",176,Deli,7,379.99,0,4.6,429,1973.4
+"Fratelli Beretta Snack Pack, 2.5 oz, 10-pack",177,Deli,7,59.99,0,3.9,151,588.9
+"Fratelli Beretta Prosciutto di Parma Boneless, DOP, minimum 14.7 lbs",178,Deli,7,249.99,0,4.5,537,2416.5
+50-stem White Roses,179,Floral,8,49.99,0,4,6573,26292
+100-stem Baby's Breath,180,Floral,8,74.99,0,4.6,2893,13307.8
+Valentine's Day Pre-Order Hugs and Kisses Arrangement,181,Floral,8,59.99,0,0,0,0
+Blushing Beauty Arrangement,182,Floral,8,54.99,0,0,0,0
+Valentine's Day Pre-Order 50-stem Red Roses,183,Floral,8,64.99,0,0,0,0
+Valentine's Day Pre-Order 50-stem Shades of Pink Roses,184,Floral,8,64.99,0,0,0,0
+Birthday Full of Happiness Floral Arrangement,185,Floral,8,46.99,0,4.3,5936,25524.8
+50-stem Red Roses,186,Floral,8,49.99,0,4.2,18098,76011.6
+Valentine's Day Pre-Order Red Romance Arrangement,187,Floral,8,69.99,0,0,0,0
+Truly Sweet Floral Arrangement,188,Floral,8,59.99,0,4.2,1552,6518.4
+50-stem Light Pink Roses,189,Floral,8,49.99,0,3.7,4046,14970.2
+Valentine's Day Pre-Order 50-stem Lavender Roses,190,Floral,8,64.99,0,0,0,0
+Inspire Floral Arrangement,191,Floral,8,59.99,0,4.2,1620,6804
+Tranquility Vase Arrangement ,192,Floral,8,54.99,0,3.9,701,2733.9
+Love You More Floral Arrangement,193,Floral,8,55.99,0,3.9,3642,14203.8
+Passion Vase Arrangement,194,Floral,8,54.99,0,3.9,798,3112.2
+24-stem Hydrangeas,195,Floral,8,59.99,0,4.4,2956,13006.4
+"Mountain Bouquet Event Collection, 10-count",196,Floral,8,99.99,0,4.4,562,2472.8
+Timeless Romance Floral Arrangement,197,Floral,8,59.99,0,4.5,3227,14521.5
+Valentine's Day Pre-Order 50-stem Red & White Roses,198,Floral,8,64.99,0,0,0,0
+50-stem Red & White Roses,199,Floral,8,49.99,0,4.1,6241,25588.1
+Bountiful Garden Bouquet,200,Floral,8,43.99,0,4.3,1733,7451.9
+115-stem Floral Variety Combination,201,Floral,8,99.99,0,4.2,2051,8614.2
+Day Dream Vase Arrangement ,202,Floral,8,54.99,0,3.9,606,2363.4
+"Mini Floral Centerpieces, 9-count",203,Floral,8,109.99,0,4.7,2421,11378.7
+"6' Wedding Runner, 4-pack",204,Floral,8,109.99,0,4.7,3119,14659.3
+Valentine's Day Forever Roses,205,Floral,8,129.99,0,0,0,0
+50-stem Lavender Roses,206,Floral,8,49.99,0,3.5,4801,16803.5
+Sunset Bliss Floral Arrangement,207,Floral,8,56.99,0,4.1,1633,6695.3
+100-stem Fillers and Greens ,208,Floral,8,64.99,0,4.4,1633,7185.2
+Valentine's Day Cherish Forever Arrangement,209,Floral,8,59.99,0,0,0,0
+Birthday Celebration Floral Arrangement,210,Floral,8,49.99,0,4.3,5997,25787.1
+100-stem White and Green Fillers,211,Floral,8,69.99,0,3.9,1210,4719
+50-stem Shades of Pink Quad Roses,212,Floral,8,49.99,0,4.1,2122,8700.2
+Elegance Floral Arrangement,213,Floral,8,46.99,0,4.4,4171,18352.4
+100-stem Carnations,214,Floral,8,59.99,0,4.4,1440,6336
+50-stem Yellow Roses,215,Floral,8,49.99,0,4,3294,13176
+Valentine's Day Pre-Order 50-stem Hot Pink / Light Pink Roses,216,Floral,8,64.99,0,0,0,0
+Mystical Garden Floral Arrangement,217,Floral,8,57.99,0,4.4,1648,7251.2
+Sunflower Sunshine Floral Arrangement,218,Floral,8,56.99,0,4.2,1579,6631.8
+50-stem Hot Pink Roses,219,Floral,8,49.99,0,4,3616,14464
+100-stem Assorted Green Fillers ,220,Floral,8,69.99,0,4.1,1181,4842.1
+Get Well Wishes Floral Arrangement,221,Floral,8,49.99,0,4.3,3616,15548.8
+Fleur Floral Arrangement,222,Floral,8,42.99,0,3.9,2622,10225.8
+Fleur Vibrant Floral Arrangement,223,Floral,8,43.99,0,4.2,2618,10995.6
+Valentine's Day Pre-Order Endless Love ,224,Floral,8,64.99,0,0,0,0
+Fresh Wedding Garland,225,Floral,8,109.99,0,4.8,3452,16569.6
+Island Breeze Bouquet,226,Floral,8,58.99,0,4.5,2066,9297
+80-stem Alstroemeria,227,Floral,8,52.99,0,4.2,1143,4800.6
+Thinking of You Floral Arrangement,228,Floral,8,52.99,0,4.3,3557,15295.1
+"Valentine's Day Pre-Order Red, White & Pink Romance Arrangement",229,Floral,8,69.99,0,0,0,0
+120-stem Ranunculus ,230,Floral,8,179.99,0,3.8,154,585.2
+Rose Petals,231,Floral,8,74.99,0,4.6,1557,7162.2
+White Garden Floral Arrangement,232,Floral,8,45.99,0,4.2,3690,15498
+40-stem Sunflowers,233,Floral,8,59.99,0,4.7,15,70.5
+40-stem Mini Green Hydrangeas,234,Floral,8,64.99,0,4.4,374,1645.6
+Valentine's Day Pre-Order Garden of Love Bouquet  ,235,Floral,8,49.99,0,0,0,0
+60-stem Gerberas,236,Floral,8,69.99,0,4.5,921,4144.5
+Valentine's Day Pre-Order Red and White Romance Arrangement,237,Floral,8,69.99,0,0,0,0
+Valentine's Day Pre-Order Mai Tai Tropical Bouquet,238,Floral,8,56.99,0,0,0,0
+Tranquil Garden Bouquet,239,Floral,8,43.99,0,4.2,863,3624.6
+Bright and Beautiful Birthday Arrangement,240,Floral,8,45.99,0,4.4,3401,14964.4
+30-stem Calla Lilies and 75-stem Roses,241,Floral,8,119.99,0,3.7,123,455.1
+Valentine's Day Magical Love Arrangement,242,Floral,8,59.99,0,0,0,0
+Valentine's Day Perfect Love ,243,Floral,8,54.99,0,0,0,0
+Wildflower Floral Arrangement,244,Floral,8,46.99,0,4.3,4202,18068.6
+Valentine's Day Pre-Order 50-stem White Roses,245,Floral,8,64.99,0,0,0,0
+Soft Grace Wedding Collection,246,Floral,8,549.99,0,4.5,807,3631.5
+Valentine's Day Galentine's Day,247,Floral,8,49.99,0,0,0,0
+Wedding Variety Collection,248,Floral,8,219.99,0,4.7,310,1457
+40-stem Calla Lilies and 20-stem Hydrangea,249,Floral,8,109.99,0,3.7,579,2142.3
+"Boutonnieres & Wrist Corsages, 16-count",250,Floral,8,129.99,0,4.3,841,3616.3
+True Beauty Floral Arrangement,251,Floral,8,55.99,0,4.2,911,3826.2
+Orange Sorbet Wedding Package,252,Floral,8,549.99,0,4.6,239,1099.4
+Blush Wedding Collection,253,Floral,8,529.99,0,4.4,96,422.4
+Vacaville Fruit Company 56 oz  Dried Fruit & Nut Wooden Gift Tray,254,Gift Baskets,9,39.99,0,4.7,3083,14490.1
+The Fruit Company Classic 5-box Tower,255,Gift Baskets,9,49.99,0,4.5,15616,70272
+"Plaza Osetra Farmed Bulgarian Sturgeon Caviar 2 oz, 3-pack",256,Gift Baskets,9,199.99,50,4.6,2452,11279.2
+Dewey’s Bakery Celebration Gift Box,257,Gift Baskets,9,49.99,20,4.5,10,45
+David's Cookies Brownie and Cookie Combo Pack,258,Gift Baskets,9,29.99,0,4.4,1679,7387.6
+Tsar Nicoulai Classic White Sturgeon Caviar 2 oz Gift Set,259,Gift Baskets,9,119.99,0,4.5,220,990
+"Healthy Snack Box, 65-piece",260,Gift Baskets,9,44.99,0,4.5,555,2497.5
+"Office Favorites Snack Box, 66-piece",261,Gift Baskets,9,39.99,0,4.4,410,1804
+Tsar Nicoulai Estate White Sturgeon Caviar 4.4 oz,262,Gift Baskets,9,149.99,50,4.4,226,994.4
+"Isabelle Pineapple Cakes 27.1 oz, 3-count",263,Gift Baskets,9,49.99,0,4.7,850,3995
+Movie Marathon Gourmet Popcorn Gift Set ,264,Gift Baskets,9,39.99,0,4.1,92,377.2
+"D'Artagnan 13-piece Gourmet Roasting Ham & Luxury Charcuterie Gift Box, 12.5 lbs",265,Gift Baskets,9,199.99,0,4.5,1307,5881.5
+"The Balanced Company, Healthy Snack Box, 50-piece",266,Gift Baskets,9,49.99,0,4.1,184,754.4
+"Vacaville Dried Mixed Fruit, 34 oz",267,Gift Baskets,9,34.99,0,4.7,1143,5372.1
+Tsar Nicoulai Baerii Caviar 2 oz. Gift Set,268,Gift Baskets,9,99.99,30,4.4,89,391.6
+Lunar New Year Basket,269,Gift Baskets,9,69.99,0,4.5,335,1507.5
+Borgo de Medici Luxury Truffle Tray Set,270,Gift Baskets,9,59.99,0,4.4,18,79.2
+Mediterranean Handmade Baklava Bundle with Honey 2-pack 1.98 lbs each,271,Gift Baskets,9,39.99,0,4.2,1413,5934.6
+The Fruit Company's Savory Charcuterie Box,272,Gift Baskets,9,99.99,0,4.6,119,547.4
+"Dorm Room Snack Box, 68-piece",273,Gift Baskets,9,39.99,0,4.6,941,4328.6
+"Tea Forte Lotus Spa Bundle, 25 Tea Packs and One Cup",274,Gift Baskets,9,49.99,0,4.8,17,81.6
+The Fruit Company's Columbia River Fruit Basket,275,Gift Baskets,9,89.99,0,4.5,79,355.5
+Godiva Valentine’s Day Radiant Red Gift Basket,276,Gift Baskets,9,79.99,0,4.3,152,653.6
+Jacques Torres Assorted Chocolate Small Hat Box,277,Gift Baskets,9,69.99,0,3.7,3,11.1
+"The Fruit Company ""Thank You"" Fruit Basket",278,Gift Baskets,9,69.99,0,4.4,45,198
+The Fruit Company Vintage Crate with Pears & Apples,279,Gift Baskets,9,59.99,0,4.5,314,1413
+Traditions Tea Teapot Tower Gift Set,280,Gift Baskets,9,39.99,0,4.5,251,1129.5
+Jacques Torres Assorted Chocolate Large Hat Box,281,Gift Baskets,9,149.99,0,5,3,15
+"D'Artagnan Extreme American Wagyu Burger Lovers Bundle 12 Total Packs, 6 Lbs. Total",282,Gift Baskets,9,159.99,0,4.5,859,3865.5
+Cheryl's Cookies 24-count Assorted Valentine's Day Cookies ,283,Gift Baskets,9,34.99,0,4.6,97,446.2
+Best of Dewey’s Bakery Gift Box,284,Gift Baskets,9,49.99,0,4.5,60,270
+Chocolate Covered Company Premium Dried Fruit & Mendiant Gift Tray,285,Gift Baskets,9,59.99,0,3.8,46,174.8
+"Chocolate Covered Company Giant Belgian Chocolate Breakable Cupcake, 34 oz. total ",286,Gift Baskets,9,49.99,0,0,0,0
+"The Fruit Company Royal Comice Pears, 15-count",287,Gift Baskets,9,49.99,0,4.4,18,79.2
+"Popcornopolis Metallic Hearts Mini Cones, Caramel Corn and Kettle Corn, 24 count",288,Gift Baskets,9,44.99,0,0,0,0
+"Heaton Pecans Roasted Salted Pecans, Chocolate Covered Pecans, Praline Pecan Tin 2.3 lb Total ",289,Gift Baskets,9,39.99,0,4.5,440,1980
+eat.art Salt and Spice Set 2-pack,290,Gift Baskets,9,44.99,0,5,3,15
+Godiva Valentine’s Day Gift Tower,291,Gift Baskets,9,49.99,0,4.5,128,576
+Stonewall Kitchen Ultimate Breakfast Gift Set,292,Gift Baskets,9,89.99,0,4.8,465,2232
+"Plaza Osetra Farmed Bulgarian Sturgeon Caviar, 2 oz Gift Set",293,Gift Baskets,9,124.99,0,4.5,996,4482
+Sanders Dark Chocolate Peppermint Sea Salt Caramel 2-pack (36 oz),294,Gift Baskets,9,34.99,0,4.4,312,1372.8
+Mrs. Fields Special Occasions Cookie Tin,295,Gift Baskets,9,46.99,0,4.4,753,3313.2
+Heaton Pecans Roasted & Salted Pecans Tin 2.5 lbs,296,Gift Baskets,9,54.99,0,4.3,119,511.7
+TRE Olive Oil Calabrian Gift Box,297,Gift Baskets,9,79.99,0,4.8,115,552
+"Tsar Nicoulai Estate Classic White Sturgeon Caviar 2 oz, 3-pack",298,Gift Baskets,9,199.99,0,4.5,261,1174.5
+"Chocolate Covered Company Belgian Chocolate Breakable Hearts, 6 count, 20 oz. total ",299,Gift Baskets,9,49.99,0,0,0,0
+Mrs. Fields Get Well Soon Bear & Cookie Crate,300,Gift Baskets,9,54.99,0,4.6,265,1219
+Stonewall Kitchen New England Morning Batter Bowl Gift Set,301,Gift Baskets,9,59.99,0,4.8,147,705.6
+Our Heroes' Care Pack ,302,Gift Baskets,9,56.99,0,4.8,477,2289.6
+Heaton Pecans Large Square Chocolate Covered Pecan Tin 3.75 lbs,303,Gift Baskets,9,59.99,0,4.6,106,487.6
+"Joe & Seph's Factory Tin Gourmet Popcorn, 2-pack",304,Gift Baskets,9,39.99,0,4.2,8,33.6
+"Collin Street Bakery’s Medium Sprinkle-Top DeLuxe Fruitcake, 2-pack",305,Gift Baskets,9,79.99,0,4.4,598,2631.2
+Best of Hawaii Gift Set,306,Gift Baskets,9,109.99,0,4.5,41,184.5
+"Plaza Osetra Farmed Bulgarian Sturgeon Caviar, 8.8 oz ",307,Gift Baskets,9,379.99,0,4.6,429,1973.4
+"Popcornopolis Ultimate Classic Assorted Tall Cones, Variety, 24-count",308,Gift Baskets,9,109.99,0,4.7,1103,5184.1
+Plaza Golden Osetra 2 oz Caviar Gift Set,309,Gift Baskets,9,169.99,0,4.5,268,1206
+"The Fruit Company ""Happy Birthday"" Fruit Basket",310,Gift Baskets,9,69.99,0,4.4,543,2389.2
+TRE Olive Merenda Gift Box,311,Gift Baskets,9,69.99,0,5,1,5
+Austin Cake Ball Catering Assortment 48 Cake Balls,312,Gift Baskets,9,89.99,0,4.4,39,171.6
+"Tsar Nicoulai Baerii Caviar 2 oz, 3-pack",313,Gift Baskets,9,249.99,0,4.4,451,1984.4
+Heaton Pecans Praline Pecans Tin 3 lbs. ,314,Gift Baskets,9,59.99,0,4,27,108
+The Popcorn Factory 4 Gallon Valentines Day Popcorn Tin,315,Gift Baskets,9,49.99,0,4.4,44,193.6
+"Plaza Golden Osetra Caviar, 8.8 oz",316,Gift Baskets,9,549.99,0,4.7,79,371.3
+"Pacific Plaza Golden Osetra Caviar 2 oz, 2-pack",317,Gift Baskets,9,279.99,0,4.4,348,1531.2
+"Chocolate Covered Company LOVE Belgian Chocolate Covered Strawberries, 12 count",318,Gift Baskets,9,59.99,0,0,0,0
+Vacaville Fruit Company 34 oz. Dried Fruit & Nut Gift Tray,319,Gift Baskets,9,34.99,0,0,0,0
+"Damn, Man Executive Deluxe Box Snack Collection",320,Gift Baskets,9,79.99,0,4.2,26,109.2
+Valentine’s Day Teddy Bear Tote,321,Gift Baskets,9,49.99,0,4.6,63,289.8
+Chocolate Covered Company Valentine's Day Belgian 6 Chocolate Covered Strawberries and 6 Mini Cheesecake Pops,322,Gift Baskets,9,59.99,0,4.2,21,88.2
+5 High Sweet Heart Valentine's Day Tower,323,Gift Baskets,9,34.99,0,4.3,204,877.2
+Sugarfina Vice Cafe Candy Bento Box 8 Small Cube,324,Gift Baskets,9,59.99,0,4.1,10,41
+Jacques Torres 14 oz. Assorted Hot Chocolate Tin & Candy Cane Hot Chocolate Tin,325,Gift Baskets,9,59.99,0,4,4,16
+Sugarfina 4 Large Cube Variety Pack,326,Gift Baskets,9,69.99,0,4,4,16
+Mrs. Fields Happy Valentine's Day Cookie Combo Tin,327,Gift Baskets,9,46.99,0,3.9,830,3237
+"D’Artagnan Ultimate Steak Lovers Gift Box, 6 Total Packs, 4.25 Lbs. Total",328,Gift Baskets,9,229.99,0,4.4,553,2433.2
+Plaza Osetra Kilo Caviar Pack,329,Gift Baskets,9,1399.99,0,4.6,57,262.2
+"Plaza Golden Osetra Caviar Kilo Pack, 35.2 oz",330,Gift Baskets,9,1999.99,0,5,2,10
+Ferrara's Bakery 2 lb Italian Cookie Tray and Struffoli,331,Gift Baskets,9,59.99,0,4.2,137,575.4
+"Around the World 15 oz Spicy Nuts, 2-pack Tin, Total 30 oz",332,Gift Baskets,9,59.99,0,3.2,4,12.8
+"Sugarfina XOXO Candy Bento Box , 8 count",333,Gift Baskets,9,54.99,0,0,0,0
+Old Fashioned Whiskey Time & Snacks Gift Set ,334,Gift Baskets,9,69.99,0,5,2,10
+The Fruit Company Heart of Hearts Valentine's Day Tower,335,Gift Baskets,9,54.99,0,0,0,0
+Sugar Plum Valentine's Boo Box,336,Gift Baskets,9,39.99,0,0,0,0
+Godiva Valentine's Day Heart Assorted Chocolate Gift Box 14 pieces,337,Gift Baskets,9,29.99,0,0,0,0
+"Kirkland Signature Super B-Complex with Electrolytes, 500 Tablets",338,Kirkland Signature Grocery,11,15.99,2.5,4.7,2218,10424.6
+"Kirkland Signature Mature Formula Chicken, Rice and Egg Dog Food 40 lb.",339,Kirkland Signature Grocery,11,52.99,0,4.5,1398,6291
+Kirkland Signature Chicken and Rice Cat Food 25 lbs.,340,Kirkland Signature Grocery,11,36.99,0,4.6,2196,10101.6
+"Kirkland Signature Puppy Formula Chicken, Rice and Vegetable Dog Food 20 lb.",341,Kirkland Signature Grocery,11,32.99,0,4.5,2366,10647
+Kirkland Signature Small Formula Chicken & Vegetable Dog Food 20 lb.,342,Kirkland Signature Grocery,11,32.99,0,4.7,4394,20651.8
+"Kirkland Signature Rwandan Coffee 3 lb, 2-pack",343,Kirkland Signature Grocery,11,37.99,0,4.7,1903,8944.1
+Kirkland Signature Nature's Domain Puppy Formula Chicken & Pea Dog Food 20 lb.,344,Kirkland Signature Grocery,11,32.99,0,4.6,1568,7212.8
+"Kirkland Signature Adult Formula Lamb, Rice and Vegetable Dog Food 40 lb.",345,Kirkland Signature Grocery,11,52.99,0,4.6,2313,10639.8
+"Kirkland Signature Adult Formula Chicken, Rice and Vegetable Dog Food, 40 lbs",346,Kirkland Signature Grocery,11,49.99,0,4.6,2994,13772.4
+"Kirkland Signature Sumatran Whole Bean Coffee 3 lb, 2-pack",347,Kirkland Signature Grocery,11,44.99,0,4.7,2458,11552.6
+"Kirkland Signature Nature's Domain Salmon & Sweet Potato Formula Dog Food, 35 lbs",348,Kirkland Signature Grocery,11,52.99,0,4.6,3871,17806.6
+"Kirkland Signature Costa Rica Coffee 3 lb, 2-pack",349,Kirkland Signature Grocery,11,37.99,0,4.7,2762,12981.4
+Kirkland Signature Healthy Weight Cat Food 20 lbs.,350,Kirkland Signature Grocery,11,32.99,0,4.5,1620,7290
+"Whole Wheel Parmigiano Reggiano, 72 lbs. ",351,Kirkland Signature Grocery,11,949.99,0,4.6,58,266.8
+"Kirkland Signature Nitrile Exam Gloves, 400-count",352,Kirkland Signature Grocery,11,27.99,0,4.8,4595,22056
+Kirkland Signature Nature's Domain Beef & Sweet Potato Dog Food 35 lb.,353,Kirkland Signature Grocery,11,52.99,0,4.6,1715,7889
+Kirkland Signature Nature's Domain Cat Food 18 lbs.,354,Kirkland Signature Grocery,11,36.99,0,4.5,1310,5895
+"Kirkland Signature Dental Chews, 72-count",355,Kirkland Signature Grocery,11,36.99,0,4.7,5134,24129.8
+"Kirkland Signature Guatemalan Coffee 3 lb, 2-pack",356,Kirkland Signature Grocery,11,42.99,0,4.4,1278,5623.2
+"Nellie’s Laundry Soda, 400 Loads",357,Laundry Detergent & Supplies,12,42.99,12,4.8,2658,12758.4
+Nellie’s Laundry Starter Pack,358,Laundry Detergent & Supplies,12,54.99,0,4.6,386,1775.6
+"Nellie’s Baby Laundry Soda, 500 Loads",359,Laundry Detergent & Supplies,12,89.99,0,4.7,3,14.1
+"Nellie's Laundry Nuggets, 350 Loads",360,Laundry Detergent & Supplies,12,84.99,0,4.3,19,81.7
+"Nellie's Laundry Soda, 800 Loads",361,Laundry Detergent & Supplies,12,89.99,0,4.8,1171,5620.8
+"ECOS HE Laundry Detergent Sheets, Free & Clear, 100 Loads, 100 Sheets, 2-count",362,Laundry Detergent & Supplies,12,38.99,0,4.6,308,1416.8
+"ECOS HE Liquid Laundry Detergent, Magnolia & Lily, 210 Loads, 210 fl oz, 2-count",363,Laundry Detergent & Supplies,12,38.99,0,4.7,1064,5000.8
+"Boulder Clean Laundry Detergent Sheets, Free & Clear, 160 Loads, 80 Sheets",364,Laundry Detergent & Supplies,12,29.99,0,4.4,112,492.8
+"ECOS HE Liquid Laundry Detergent, Free & Clear, 210 Loads, 210 fl oz, 2-count",365,Laundry Detergent & Supplies,12,38.99,0,4.7,2060,9682
+"The Unscented Company Liquid Laundry Detergent Refill Box, 400 Loads, 337.92 fl oz",366,Laundry Detergent & Supplies,12,44.99,0,0,0,0
+"The Unscented Company HE Liquid Laundry Detergent Bottle & Refill Box, 478 Loads, 403.82 fl oz",367,Laundry Detergent & Supplies,12,54.99,0,4.2,29,121.8
+"Boulder Clean Liquid Laundry Detergent, Citrus Breeze, 200 loads, 200 fl oz",368,Laundry Detergent & Supplies,12,24.99,0,4.5,116,522
+"The Unscented Company Laundry Tabs, 300 Loads",369,Laundry Detergent & Supplies,12,74.99,0,2.3,3,6.9
+"Scotch-Brite Lint Roller, 95-count, 5-pack",370,Laundry Detergent & Supplies,12,17.89,3.1,4.7,896,4211.2
+"Nellie’s Bulk Oxygen Brightener, 8.75 lbs",371,Laundry Detergent & Supplies,12,43.99,0,4.5,355,1597.5
+"Nellie's Lamby Dryerballs, 4-count, 2-pack",372,Laundry Detergent & Supplies,12,39.99,0,4.7,198,930.6
+"The Unscented Company Dryer Balls, 6-count",373,Laundry Detergent & Supplies,12,34.99,0,4.9,7,34.3
+"Ahi Tuna Individual Vacuum Packed Portion (26-27/6 Oz. Per Portion), 26-27 Total Packs, 10 Lbs. Total Case",374,Meat & Seafood,13,149.99,70,4.6,1237,5690.2
+"Chicago Steak USDA Prime Beef Wet Aged Boneless Strips & Gourmet Burgers, 16 Total Count, 10 Lbs. Total",375,Meat & Seafood,13,229.99,60,0,0,0
+"Alaska Home Pack Frozen Sea Cucumber - 3 Packs, 7 Lbs. Total",376,Meat & Seafood,13,239.99,60,4,108,432
+"Northfork Ground Bison - (10/1 Lb. Per Pack), 10 Total Packs, 10 Lbs. Total",377,Meat & Seafood,13,109.99,30,4.7,104,488.8
+"Lobster With Shell Removed, (9 Oz. Per Pack), 6 Total Packs, 3.44 Lbs. Total",378,Meat & Seafood,13,259.99,0,0,0,0
+"Crescent Foods Halal Hand-Cut Beef, Chicken Combo Pack - 14 Total Packs, 13.5 Lbs. Total",379,Meat & Seafood,13,159.99,0,4.2,11,46.2
+"Farmer Focus Organic Boneless/Skinless Chicken Breasts, (20/8 Oz. Per Breast), 20 Total Count, 10 Lbs. Total",380,Meat & Seafood,13,149.99,0,4.5,249,1120.5
+"D’Artagnan Green Circle Chicken - Boneless & Skinless Breasts, 12 Total Packs, 11 Lbs. Total",381,Meat & Seafood,13,139.99,0,4.4,207,910.8
+"Northwest Fish 4-6 Whole Dungeness Crab, 10 lbs",382,Meat & Seafood,13,209.99,0,4.2,179,751.8
+"Quality Ethnic Foods Halal Chicken Variety Pack (Drumsticks, Tenders, Boneless Breast), 12 Total Packs, 12 Lbs. Total",383,Meat & Seafood,13,99.99,0,4.3,43,184.9
+"Premium Seafood Variety Pack - 20 Total Packs, Total 12.5 Lbs.",384,Meat & Seafood,13,349.99,0,4.4,8,35.2
+"Northfork Elk Burger (30/5.33 Oz Per Burger), 10 Total Packs, 30-Count",385,Meat & Seafood,13,109.99,40,4.6,336,1545.6
+"D'Artagnan Heritage Breed (6/3.25 Lbs. Per Whole Chicken), Total 6 Packs, 19.5 Lbs. Total",386,Meat & Seafood,13,169.99,0,3,1,3
+"Chicago Steak - Steak & Cake - Filet Mignon, Crab Cakes, and Steak Burgers, Total 13 Packs, 6.5 Lbs. Total",387,Meat & Seafood,13,199.99,0,4.5,50,225
+"Northwest Fish Colossal Alaskan Wild Dungeness Crab Sections, 10lbs",388,Meat & Seafood,13,219.99,0,4,602,2408
+"Mila Chicken Xiao Long Bao Soup Dumplings - 50 Dumplings Per Bag, 3 Bags Total",389,Meat & Seafood,13,99.99,0,4,19,76
+"Kansas City Steak Company USDA Choice Combo Pack (4 Strips, 4 Filet Mignon, 4 Ribeyes), 12 Total Packs, 11.5 Lbs. Total",390,Meat & Seafood,13,279.99,80,4.8,151,724.8
+"D'Artagnan Extreme American Wagyu Burger Lovers Bundle 12 Total Packs, 6 Lbs. Total",391,Meat & Seafood,13,159.99,0,4.5,859,3865.5
+"Texas Tamale Co. Chicken Tamales 6-pack of 12 each, 72-count",392,Meat & Seafood,13,89.99,0,3.5,20,70
+"Northwest Fish Wild Alaskan Sockeye Salmon Cheddar Bacon Burger Patties, 24-count, 9 lbs",393,Meat & Seafood,13,119.99,0,3.5,109,381.5
+"Northfork Bison Burger (30/5.33 Oz Per Burger), 10 Total Packs, 30-Count",394,Meat & Seafood,13,109.99,40,4.6,329,1513.4
+Coastal Seafood Frozen Lobster Tails 12 Count (6 - 8  oz.),395,Meat & Seafood,13,229.99,0,4.6,349,1605.4
+"D'Artagnan 13-piece Gourmet Roasting Ham & Luxury Charcuterie Gift Box, 12.5 lbs",396,Meat & Seafood,13,199.99,0,4.5,1307,5881.5
+"Northwest Fish Alaskan Bairdi Snow Crab Sections, (10-14 / 13 Oz. Per Pack), Total 10 Lbs.",397,Meat & Seafood,13,299.99,0,4.2,165,693
+"Authentic Wagyu Surf & Turf Pack, (2/17-20 Oz./Each Tail) Cold Water Lobster Tails with (2/13 Oz. Per Steak) Japanese A5 Wagyu Petite Striploin Steaks",398,Meat & Seafood,13,279.99,0,0,0,0
+"Rastelli Bone-In Premium Pork Rib Steak, (16/8 Oz. Per Steak), 16 Total Count, 8 Lbs. Total ",399,Meat & Seafood,13,199.99,0,4.7,342,1607.4
+"Mila Pork Xiao Long Bao Soup Dumplings - 50 Dumplings Per Bag, 3 Bags Total",400,Meat & Seafood,13,99.99,0,4.5,251,1129.5
+"Rastelli USDA Choice Boneless Black Angus Prime Rib Roast, 1 Total Pack, 7 Lbs. Total",401,Meat & Seafood,13,199.99,0,4.3,1787,7684.1
+"Silver Fern Farms 100% New Zealand Grass-Fed, Net Carbon Zero Steak Box - 10 Total Packs, 6.25 Lbs. Total",402,Meat & Seafood,13,129.99,0,4.4,118,519.2
+"Authentic Wagyu Surf & Turf Pack, (2/17-20 Oz. Cold Water Lobster Tails with  (2/14 Oz.Per Steak) Japanese A5 Wagyu Ribeye Steaks",403,Meat & Seafood,13,339.99,0,1,1,1
+"D’Artagnan Gourmet Steak & Burger Grill Pack, 20 Total Packs, 16 Lbs. Total",404,Meat & Seafood,13,399.99,0,4.3,271,1165.3
+"Rastelli Market Fresh Jumbo Lump Crab Cakes (20/4 Oz. Per Crab Cake), 20 Total Count, 5 Lbs. Total",405,Meat & Seafood,13,199.99,0,3.9,1100,4290
+"Rastelli Petite Filet Mignon & Jumbo Lump Crab Cake Surf & Turf, 24 Total Packs, 6.75 Total Lbs.",406,Meat & Seafood,13,349.99,0,4.2,104,436.8
+"Chicago Steak Premium Angus Beef Surf & Turf, 15 Total Packs, 7 Lbs. Total",407,Meat & Seafood,13,239.99,0,4.6,335,1541
+"Chicago Steak Premium Angus Beef Burger Flight, Total 29 Packs, 14 Lbs. Total",408,Meat & Seafood,13,219.99,0,4.7,208,977.6
+"Wild Alaska Snow Crab Meat (Bairdi Crab 8 oz. Pack) 12 Total Packs, 6 Lbs. Total ",409,Meat & Seafood,13,279.99,0,0,0,0
+"Authentic Wagyu Kurobuta Applewood Smoked Thick Cut Bacon, 1 Pack, 3 Lbs. Total",410,Meat & Seafood,13,89.99,0,3.1,16,49.6
+"Northwest Red King Salmon Portions, 12 Total Count, 1 Case Totaling 6 Lbs.",411,Meat & Seafood,13,179.99,0,3.4,141,479.4
+"D’Artagnan Antibiotic Free Bone-in Beef Ribeye Roast, 1 Total Pack, 19 Lbs. Total",412,Meat & Seafood,13,429.99,0,4.6,492,2263.2
+"Rastelli's Pork Ribeye Steaks - (20/6 Oz Per Portion), 20 Total Packs, 7.5 Lbs. Total",413,Meat & Seafood,13,114.99,0,4.4,48,211.2
+"Chicago Steak USDA Prime Surf & Turf, Total 14 Packs, 7 Lbs. Total",414,Meat & Seafood,13,299.99,0,4.5,110,495
+"Ahi Tuna Mixed Pack, (12 x 6 oz. Steaks, 9 x 5.3 oz. Saku Slice Packs, 4 x 10.7 oz. Sesame Crusted Steak Packs), 25 Total Packs, 10.15 Lbs. Total",415,Meat & Seafood,13,239.99,0,0,0,0
+"Mila Starter Pack Xiao Long Bao Soup Dumplings - 3 Bags, 1 Bamboo Steamer, 4 Dipping Bowls",416,Meat & Seafood,13,129.99,0,0,0,0
+"Northwest Fish Wild Alaskan Sockeye Salmon Fillets, 10 lbs",417,Meat & Seafood,13,219.99,0,4.5,388,1746
+"Smoked New Zealand King Salmon, 1.1lb fillets, 2-count, 2.2 lbs total",418,Meat & Seafood,13,109.99,0,4.1,134,549.4
+"Crescent Foods Halal Hand Cut Steak Locker, 16 Total Packs, 9 Lbs. Total",419,Meat & Seafood,13,199.99,0,4.5,106,477
+"Rastelli VBites Plant-Based Vegan Meat Substitute Mega Burger 6 oz each, 24-pack, 9 lbs",420,Meat & Seafood,13,99.99,0,4.2,26,109.2
+"Chicago Steak Filet Mignon & Scallop Combo, 14 Total Packs, 7 Lbs. Total",421,Meat & Seafood,13,249.99,0,4.6,13,59.8
+" Northwest Fish Wild Alaskan Sockeye Salmon Fillets Total 25 Count, 1 Case Totaling 10 Lbs.",422,Meat & Seafood,13,229.99,0,4.4,947,4166.8
+"A5 Wagyu Surf & Turf Pack, Cold Water Lobster Tails & Japanese A5 Wagyu Filet Mignon, Total 4 Packs",423,Meat & Seafood,13,379.99,0,4.4,134,589.6
+"Wild Alaska Halibut Bits & Pieces, (8/1 lb Packs) 8 Total Packs, 8 Lbs. Total",424,Meat & Seafood,13,159.99,0,0,0,0
+"Authentic Wagyu Japanese A5 Wagyu Sampler Pack, 3 Total Steaks, 2.1 Lbs. Total",425,Meat & Seafood,13,369.99,0,4.2,5,21
+"Japanese A5 Wagyu Ribeye Steaks, (3/16 Oz. Steaks), 3 Total Packs, 3 Lbs. Total",426,Meat & Seafood,13,469.99,0,3.4,64,217.6
+"Chicago Steak Premium Angus Beef Butcher Assortment , 17 Total Packs, 8 Lbs. Total",427,Meat & Seafood,13,219.99,0,4.5,1193,5368.5
+"Japanese Wagyu Center Cut New York Strip Steaks, A5 Grade, (4/12 Oz. Per Steak), 4 Total Count, 3 Lbs. Total",428,Meat & Seafood,13,469.99,0,4.4,755,3322
+"Seabear Wild Sockeye & King  Smoked Salmon Fillet Duo, Total 2lbs. (1 lb each)",429,Meat & Seafood,13,64.99,0,4.4,53,233.2
+"Authentic Wagyu Japanese A5 Bacon Wrapped Cubes, (3/16 Cubes Per Tray), Total 3 Packs, 2.7 Lbs. Total",430,Meat & Seafood,13,249.99,0,2.6,18,46.8
+"Rastelli Market Fresh Angus Beef Prime Petite Filet Mignons & Wild Caught Maine Lobster Tails, 8 Total Packs, 3 Lbs. Total",431,Meat & Seafood,13,189.99,0,4.2,677,2843.4
+"Trident Seafoods Smoked Sockeye Salmon, 2 Gift Packs",432,Meat & Seafood,13,59.99,0,4.5,1550,6975
+"SeaBear Smoked Salmon Gift Boxes, 6 oz, 6-pack",433,Meat & Seafood,13,79.99,0,4.4,75,330
+"Mila Variety Pack - Xiao Long Bao Soup Dumplings - 50 Dumplings Per Bag, 3 Bags Total",434,Meat & Seafood,13,99.99,0,4.5,173,778.5
+"Great Southern Grass Fed Beef, ABF NY Strip CC Steak,(14/12 Oz. Per Steak), 14 Total Packs, 10.5 Lbs. Total",435,Meat & Seafood,13,249.99,0,4.6,1640,7544
+"Pederson Natural Farms No Sugar Italian Ground Sausage 1 lb, 10-pack",436,Meat & Seafood,13,89.99,0,4.2,56,235.2
+"Grizzly Salmon Tartare with Citrus Marinade, (14/4 Oz Packs), 14 Total Packs, Total 3.5 Lbs.",437,Meat & Seafood,13,129.99,0,4,41,164
+"Rastelli’s ABF Burger Variety Pack (Wagyu, Angus, Short-Rib, Dry-Aged), 42 Total Burgers , 15 Lbs. Total",438,Meat & Seafood,13,199.99,0,4.4,41,180.4
+"Rastelli Antibiotic-Free Wagyu Beef Craft Burgers (24/5.5 Oz. Per Burger), 24 Total Count, 8.25 Lbs. Total",439,Meat & Seafood,13,109.99,0,4.5,196,882
+"Norwegian Froya Salmon Loin, (4/6.4 Oz. Per Loin), 4 Total Loins, Total 1.6 Lbs.",440,Meat & Seafood,13,159.99,0,0,0,0
+"Rastelli USDA Choice Black Angus Beef Cowboy Steaks, (8/18 Oz Per Steak), 8 Total Count, 9 Lbs. Total",441,Meat & Seafood,13,299.99,0,3.9,220,858
+"Texas Tamale Co. Pork Tamales 6pk of 12 Each, 72-count",442,Meat & Seafood,13,89.99,0,4,132,528
+"Sampler: Dry-Cured Acorn-Fed 100% Iberico Pork Ham and Salami and Chorizo, 4.5 oz, 3-pack",443,Meat & Seafood,13,64.99,0,5,6,30
+"Japanese A5 Wagyu Chuck Eye Steaks, (6/8 Oz. Steaks), 6 Total Packs, 3 Lbs. Total",444,Meat & Seafood,13,329.99,0,3.8,16,60.8
+"Sesame Crusted Ahi Tuna Steaks, 18 Total Packs, 1 Case Totaling 12 Lbs.",445,Meat & Seafood,13,269.99,0,4.6,41,188.6
+"Authentic Wagyu Japanese A5 Wagyu Top Sirloin Medallions, (8/8 Oz. Per Steak), 8 Total Packs, 4 Lbs. Total",446,Meat & Seafood,13,449.99,0,3.7,22,81.4
+"Fully Cooked Confit Duck Legs - (8/1 Lbs. Per Pack), 16 Legs, 8 Total Packs, 8 Lbs. Total",447,Meat & Seafood,13,179.99,0,4.5,40,180
+"Holy Grail Steak Company - Kobe A5 Grade Japanese Wagyu Strip Steaks 14 Oz, 2-Count, 1.75 Lbs. Total",448,Meat & Seafood,13,529.99,0,4,4,16
+"All Natural Raw Duck Legs - (8/2 Legs Per Pack, 8.5 Oz Per Leg), 16 Total Legs, 8 Total Packs, 8.5 Lbs. Total",449,Meat & Seafood,13,149.99,0,4.7,20,94
+"Aysen Coho Sashimi Quality Salmon Portions, (6 Oz. Portion Per Pack), 26 to 27 Total Packs, 10 Lbs. Total",450,Meat & Seafood,13,169.99,0,1,1,1
+"Quality Ethnic Foods Half Goat Meat Locker - 10 Total Packs, 15 Lbs. Total",451,Meat & Seafood,13,169.99,0,3,55,165
+"Japanese Wagyu New York Strip Loin Roast, A5 Grade, 11 lbs",452,Meat & Seafood,13,999.99,0,4.6,424,1950.4
+"Japanese Wagyu Boneless Ribeye Roast, A5 Grade, 12 lbs",453,Meat & Seafood,13,1099.99,0,4.6,657,3022.2
+"Rastelli’s Antibiotic-Free Turkey Craft Burgers (32/5 Oz. Per Burger), 32 Total Packs, 10 Lbs. Total",454,Meat & Seafood,13,99.99,0,4.4,38,167.2
+"Aysen Coho Salmon Filets, (4/2-3 Lbs. Per Filet), 4 Total Packs, 8 Lbs. Total",455,Meat & Seafood,13,199.99,0,4.4,48,211.2
+"Key West Pink 16/20 Gulf Shrimp Headless Shell-On (3/2Lb Per Bag), Total 3 Packs, 6 Lbs. Total",456,Meat & Seafood,13,119.99,0,4.5,26,117
+"Authentic Wagyu Japanese A5 Chuck Roll Bulgogi Style Slices, 6 Total Packs, 3 Lbs. Total",457,Meat & Seafood,13,239.99,0,4.1,109,446.9
+"Japanese Wagyu Tenderloin Roast, A5 Grade, 6 lbs",458,Meat & Seafood,13,999.99,0,4.5,36,162
+"Northfork Bison Combo Pack - (Ribeye, Striploin, Stew Meat), 6 Total Packs, 4 Lbs. Total",459,Meat & Seafood,13,139.99,0,4.7,13,61.1
+"Japanese Wagyu, Texas Clod Heart Roast A5 Grade, 7 lbs",460,Meat & Seafood,13,549.99,0,4.4,16,70.4
+"Great Southern Grass Fed Beef, All Natural, Antibiotic Free, Top Sirloin Steak (20/8 Oz. Per Steak), 20 Total Packs, 10 Lbs. Total",461,Meat & Seafood,13,249.99,0,4.2,194,814.8
+"Great Southern Grass Fed Beef, All Natural, Antibiotic Free, Ribeye Steaks, (14/12 Oz. Each Steak), 14 Total Packs, 10.5 Lbs. Total",462,Meat & Seafood,13,239.99,0,4.4,354,1557.6
+"Hillshire Farm Slow Roasted Turkey Breast, 11 oz, 3-count",463,Meat & Seafood,13,300.99,0,4.5,4,18
+"D'Artagnan American Wagyu Beef Filet Mignon, 8 Total Count, 3 Lbs. Total",464,Meat & Seafood,13,399.99,0,3.9,62,241.8
+"Whole Cooked Cold Water Lobsters, (8-9/1.25 Lbs. Each Lobster), 1 Case Totaling 12 Lbs.",465,Meat & Seafood,13,259.99,0,2.8,5,14
+"Authentic Wagyu Japanese A5 Peeled Flat Iron, 3.8 lbs",466,Meat & Seafood,13,399.99,0,4.2,14,58.8
+"Texas Tamale Co. Beef Tamales 6pk of 12 Each, 72-count",467,Meat & Seafood,13,89.99,0,4,90,360
+"Pederson Natural Farms Antibiotic Free Uncured No Sugar Bacon, 10 oz, 16-pack",468,Meat & Seafood,13,119.99,0,4.4,104,457.6
+"Great Southern All Natural, Antibiotic Free, Grass Fed Beef, Filet Mignon Steak  8 oz, 20-pack, 10 lbs",469,Meat & Seafood,13,299.99,0,4.2,247,1037.4
+"Northfork Bison Trio of Ground Meats, Total 9 Packs, 9 Lbs. Total",470,Meat & Seafood,13,129.99,0,4.7,93,437.1
+"Coastal Seafood Yellowfin Tuna Cubed Poke, (6/1Lbs. Per Bag), 6 Total Bags, 6 Lbs.Total",471,Meat & Seafood,13,159.99,0,4,18,72
+"Authentic Wagyu Japanese A5 Marinated Brisket Gyudon, (2/2 Lbs. Per Pack), 2 Total Packs, 4 Lbs. Total",472,Meat & Seafood,13,189.99,0,4.1,7,28.7
+"Northwest Fish Wild Alaskan Cod Loins Total 25 Count, 1 Case Totaling 10 Lbs.",473,Meat & Seafood,13,169.99,0,4.4,262,1152.8
+"Alaska Black Cod (Sable Fish) - Individual Packed Portions (19-25/6-8 Oz. Per Portion), 1 Case Totaling 10 Lbs.",474,Meat & Seafood,13,269.99,0,4.8,190,912
+"Lobster Claws & Arms, Sustainable Wild Caught, North Atlantic, 24-40 Claws & Arms (3-5 Lb. Per.), Total 8Lb. Case",475,Meat & Seafood,13,199.99,0,0,0,0
+"Swift All Natural Lamb Loin Chops, (4/4 Oz. Chops Per Pack) 10 Total Packs, 10 Lbs. Total",476,Meat & Seafood,13,179.99,0,4.5,209,940.5
+"Coastal Seafood Live Maine Lobsters, (6/1.25 Lbs. Per Lobster) 6 Total Packs, 7.5 Lbs. Total",477,Meat & Seafood,13,179.99,0,2.9,64,185.6
+"Rastelli USDA Choice Black Angus Sirloin Coulotte Steak (20/6 Oz Per Steak), 20 Total Count, 7.5 Lbs. Total",478,Meat & Seafood,13,149.99,0,4.1,344,1410.4
+"Tsar Nicoulai Caviar Sturgeon Pate 6 oz, 6-pack",479,Meat & Seafood,13,59.99,0,4.1,114,467.4
+"Crescent Foods Halal Hand-Cut Lamb Locker Pack - 9 Total Packs,  9 Lbs. Total",480,Meat & Seafood,13,159.99,0,4.9,10,49
+"Authentic Wagyu Boneless Ribeye Roast A5 Grade, 2 x 3 lbs, 6 lbs Total",481,Meat & Seafood,13,549.99,0,4.1,9,36.9
+"Cristobal Salted Cod Fillets 2 lbs, 3-pack",482,Meat & Seafood,13,69.97,0,4.5,26,117
+"Rastelli Grass Fed Frenched Lamb Racks, 24 oz, 6-pack, 9 lbs",483,Meat & Seafood,13,349.99,0,4.6,313,1439.8
+"Halal Certified Lamb Box - (2/2 20-22 Oz. Rack of Lambs, 2/2 1.5 Lbs. Lamb Fore Shank, 1/1 3.5 Lbs. Denver Ribs) 5 Total Packs, 9.3 Lbs. Total",484,Meat & Seafood,13,139.99,0,4.9,7,34.3
+"Rastelli USDA Choice Black Angus NY CC Strip Steak (12/10 Oz. Per Steak), 12 Total Count, 7.5 Lbs. Total",485,Meat & Seafood,13,209.99,0,4.3,286,1229.8
+"Rastelli Choice Black Angus Tomahawk Steaks, (4/38 Oz. Each Steak), 4 Total Count, 9.5 Lbs. Total",486,Meat & Seafood,13,329.99,0,4.6,235,1081
+"Quality Ethnic Foods Halal Goat Cubes, (5/2.2 Lbs. Per Bag), Total 5 Packs, Total 11 Lbs.",487,Meat & Seafood,13,99.99,0,4.2,67,281.4
+"A5 Wagyu Striploin Shabu Shabu slices, Total 4 Packs, Total 2 Lbs.",488,Meat & Seafood,13,229.99,0,4.4,229,1007.6
+"All Natural Boneless Duck Breast - (8/7 Oz. Per Duck Breast), 16 Total Breasts, 8 Total Packs, 7Lbs. Total",489,Meat & Seafood,13,179.99,0,4.6,42,193.2
+"Crescent Foods Halal Hand Cut Poultry Locker - 9 Total Packs, 12 Lbs. Total",490,Meat & Seafood,13,149.99,0,4.7,78,366.6
+"Northwest Fish Sablefish Loins, Skin on, 7 oz, 23-count, 10 lbs",491,Meat & Seafood,13,269.99,0,4.3,232,997.6
+"Northwest Fish Halibut Fillets, Skin-On 7-9 oz, 18-count, 10 lbs",492,Meat & Seafood,13,249.99,0,4.1,264,1082.4
+"Authentic Wagyu Japanese A5 Wagyu Striploin Roast, 2-count, minimum 6 lbs total",493,Meat & Seafood,13,569.99,0,4.5,208,936
+"Northwest Fish U-12 Sea Scallops, 6 lbs",494,Meat & Seafood,13,219.99,0,4.4,87,382.8
+"American Red Snapper - Whole, Head-On, Cleaned, (5-7 Individually Vacuum Packed Portions/ 1.5-2 Lbs Per Fish) - Total 10Lbs.",495,Meat & Seafood,13,189.99,0,4.7,23,108.1
+"D'Artagnan American Wagyu Beef Strip Steaks, 5 Total Packs, 3.75 Lbs. Total",496,Meat & Seafood,13,299.99,0,3.3,88,290.4
+"Rastelli USDA Choice Black Angus Filet Mignon (16/5 Oz. Per Filet Mignon), 16 Total count, 5 Lbs. Total",497,Meat & Seafood,13,219.99,0,4.3,751,3229.3
+"Quality Halal Cut Beef Oxtail, 5 Total Packs, 11 Lbs. Total",498,Meat & Seafood,13,159.99,0,3.6,67,241.2
+"Northfork Bison Sirloin Steak, (10/8 Oz. Per Steak), 10 Total Count, 5 Lbs. Total",499,Meat & Seafood,13,149.99,0,4.1,75,307.5
+"Quality Ethnic Foods Halal Beef Variety (9/1 Lbs. Per Pack), 9 Total Packs, 9 Lbs. Total",500,Meat & Seafood,13,129.99,0,4,29,116
+"Whole Head On, Cleaned Branzino Fish (12-18 Oz. Per Fish), Min 7 Count, 10 Lbs. Total",501,Meat & Seafood,13,139.99,0,4.3,3,12.9
+"D’Artagnan ABF Butcher Box Collection, Total 7.5lbs",502,Meat & Seafood,13,239.99,0,0,0,0
+"D’Artagnan Ultimate Steak Lovers Gift Box, 6 Total Packs, 4.25 Lbs. Total",503,Meat & Seafood,13,229.99,0,4.4,553,2433.2
+"Portoro Australian Primal Beef Striploin - 1 Total Pack, Min Weight 6 Lbs.",504,Meat & Seafood,13,249.99,0,5,1,5
+"Northfork Bison Medallion (8/5 Oz. Per Medallion), 8 Total Packs, 2.5 Lbs. Total",505,Meat & Seafood,13,139.99,0,3.8,146,554.8
+"Authentic Wagyu Japanese A5 Ground Beef, 4 Total Packs, 4 Lbs.Total",506,Meat & Seafood,13,129.99,0,4,22,88
+"Portoro Australian Primal Beef Ribeye - 1 Pack Total, Minimum 5.7 Lbs.",507,Meat & Seafood,13,259.99,0,3.8,6,22.8
+"Northfork Bison Tenderloin, Total 1 Pack, 2 Lbs. Total",508,Meat & Seafood,13,139.99,0,4.3,32,137.6
+"D'Artagnan Whole ABF Pekin Duck, (1/5.25 Lbs. Average Per Duck), 6 Total Packs, 31.5 Lbs. Total ",509,Meat & Seafood,13,219.99,0,4.5,140,630
+"El Rey Del Pulpo, Large Cooked Octopus Tentacles, 14 oz, 6-pack, 5.25 lbs",510,Meat & Seafood,13,159.99,0,4.5,288,1296
+"Mahi Mahi Boneless, (26-27/Skinless 6 Oz. Portions Per Each Pack), 26-27 Total Packs, 1 Case Totaling 10 Lbs.",511,Meat & Seafood,13,249.99,0,4.8,84,403.2
+"Tsar Nicoulai Estate Smoked Sturgeon 6 oz, 6-count, 2.25 lbs",512,Meat & Seafood,13,79.99,0,4.2,104,436.8
+"Japanese Wagyu Filet Mignons Steaks, A5 Grade, (8/6 Oz. Per Steak), 8 Total Packs, 3 Lbs. Total",513,Meat & Seafood,13,649.99,0,4.7,305,1433.5
+Ruta Maya Organic Jiguaní Whole Bean Coffee 5 lb,514,Organic,14,47.99,0,4.7,631,2965.7
+Ruta Maya Organic Medium Roast Whole Bean Coffee 5 lb,515,Organic,14,44.99,0,4.7,2525,11867.5
+"Jose’s 100% Organic Mayan Whole Bean Coffee 2.5 lb, 2-pack",516,Organic,14,44.99,0,4.6,1822,8381.2
+"Made in Nature Organic Berry Fusion 24 oz, 2-pack",517,Organic,14,39.99,0,4.4,440,1936
+"Made In Nature Organic Calimyrna Figs 40 oz, 3-pack",518,Organic,14,49.99,0,4.6,1819,8367.4
+"Ruta Maya Organic Dark Roast Coffee, 5 lbs",519,Organic,14,44.99,0,4.8,2216,10636.8
+"Mother Earth Organic Medium Roast Coffee 2 lb, 2-pack",520,Organic,14,39.99,0,4.5,1046,4707
+"Acetum Organic Apple Cider Vinegar with the Mother, 128 fl. oz.",521,Organic,14,27.99,0,4.7,571,2683.7
+European Black Winter Fresh Truffles 3 oz.,522,Pantry & Dry Goods,15,189.99,0,0,0,0
+Manuka Health UMF 20+ (MGO 850+) Raw Manuka Honey 8.8 oz,523,Pantry & Dry Goods,15,59.99,20,4.6,1571,7226.6
+Namaste USDA Organic Gluten Free Perfect Sweet Brown Rice Flour Blend 48 oz  6-count,524,Pantry & Dry Goods,15,74.99,0,4.6,255,1173
+Full Thread Greek Saffron 14 Gram Jar,525,Pantry & Dry Goods,15,59.99,20,4.7,1444,6786.8
+"Namaste Gluten Free Perfect Flour Blend, 6-pack",526,Pantry & Dry Goods,15,56.99,0,4.8,851,4084.8
+TRE Olive Oil Calabrian Gift Box,527,Pantry & Dry Goods,15,79.99,0,4.8,115,552
+TRE Olive 2 Liter Extra Virgin Olive Oil,528,Pantry & Dry Goods,15,39.99,0,4.7,98,460.6
+"Napa Valley Naturals USDA Organic Extra Virgin Olive Oil 25.4 oz, 6-count",529,Pantry & Dry Goods,15,79.99,0,4.5,122,549
+"Origin 846 Unfiltered Organic Extra Virgin Olive Oil 28.6 oz, 3-pack",530,Pantry & Dry Goods,15,29.99,0,4.2,122,512.4
+Tre Olive Harvest Variety Gift Box Extra Virgin Olive Oil 3-Pack,531,Pantry & Dry Goods,15,59.99,0,4.7,50,235
+Manuka Health UMF 10+ (MGO 263+) Raw Manuka Honey 17.6 oz,532,Pantry & Dry Goods,15,29.99,0,4.8,1241,5956.8
+"Terra Delyssa First Cold Press Extra Virgin Olive Oil 3L, Tin, 2-count",533,Pantry & Dry Goods,15,64.99,0,4.3,285,1225.5
+"Chosen Foods Avocado Oil Spray, 13.5 oz, 2-count",534,Pantry & Dry Goods,15,21.99,0,4.5,122,549
+Comvita UMF 25+ Special Reserve Manuka Honey 8.8 oz,535,Pantry & Dry Goods,15,349.99,0,4.3,15,64.5
+eat.art Salt and Spice Set 2-pack,536,Pantry & Dry Goods,15,44.99,0,5,3,15
+Comvita Certified UMF 5+  (MGO 83+) Raw Manuka Honey (35.2 oz),537,Pantry & Dry Goods,15,49.99,0,4.7,646,3036.2
+Namaste Gluten Free Waffle & Pancake Mix 3 lb 2-pack (6 lbs Total),538,Pantry & Dry Goods,15,27.99,0,5,1,5
+Korean Honeyed Black Ginseng 20 Sticks,539,Pantry & Dry Goods,15,109.99,0,4.5,52,234
+Comvita Certified UMF 18+ (MGO 696+) Raw Manuka Honey (8.8 oz),540,Pantry & Dry Goods,15,59.99,0,4.7,401,1884.7
+Kinders Organic Garlic and  Herb with Sea Salt and Lemon 2-pack,541,Pantry & Dry Goods,15,21.99,0,4.4,41,180.4
+Jamie's Hive to Table 3.5 lbs. Full Frame Honeycomb ,542,Pantry & Dry Goods,15,69.99,0,4.5,4,18
+Omeals Self Heating Emergency/Portable Meals 32 Pack High Protein Assortment (32 Total Servings),543,Pantry & Dry Goods,15,229.99,0,4.3,43,184.9
+"Golden Nest Premium Bird Nest Soup, Original, 75 ml Bottles, 8-count, 2-pack",544,Pantry & Dry Goods,15,99.99,0,4.4,215,946
+"Kirkland Signature Organic Hemp Hearts, 3-pack (6 lbs Total)",545,Pantry & Dry Goods,15,54.99,0,4.9,41,200.9
+"Global Gourmet 12-piece Hot Sauce Collection, 2-pack",546,Pantry & Dry Goods,15,49.99,0,3.7,17,62.9
+"Jamie's Hive To Table 100% Pure Raw 12 oz. Honeycomb, 3-Pack",547,Pantry & Dry Goods,15,44.99,0,3.9,15,58.5
+"Nielsen-Massey Madagascar Bourbon Pure Vanilla Bean Paste, 8 oz. ",548,Pantry & Dry Goods,15,36.99,0,4.7,561,2636.7
+"Kirkland Signature Ground Turmeric, 12 oz., 2-count",549,Pantry & Dry Goods,15,19.99,0,4.7,411,1931.7
+"Kirkland Signature Organic Ground Saigon Cinnamon, 10.7 oz., 2-count",550,Pantry & Dry Goods,15,19.99,0,4.9,906,4439.4
+"Trufflin 8.5 oz Truffle Sriracha Hot Sauce, 3-pack",551,Pantry & Dry Goods,15,36.99,0,3.3,11,36.3
+Fresh Winter White  Truffles 2 oz,552,Pantry & Dry Goods,15,349.99,0,4.1,19,77.9
+"Nielsen-Massey Madagascar Bourbon Pure Vanilla Extract, 8 oz., 2-pack ",553,Pantry & Dry Goods,15,49.99,0,4.8,880,4224
+"Pure Vanilla Extract, 16 fl oz",554,Pantry & Dry Goods,15,16.99,0,4.7,970,4559
+"DJ&A Shiitake Mushroom Crisps 10.58 oz. bag, 5-pack",555,Pantry & Dry Goods,15,49.99,0,4.4,172,756.8
+Trufflehunter White Truffle Oil 2-Pack (8.45 oz each),556,Pantry & Dry Goods,15,37.99,0,4.4,46,202.4
+Yupik Organic Hulled Hemp Hearts 2.2 lb 3-pack,557,Pantry & Dry Goods,15,56.99,0,4.7,177,831.9
+Minced Black Truffle and Sliced Black Truffle Twin Pack ,558,Pantry & Dry Goods,15,49.99,0,4.1,47,192.7
+"Nielsen Massey Mexican Pure Vanilla Extract, 2-pack (8 oz. each)",559,Pantry & Dry Goods,15,54.99,0,4.5,39,175.5
+"Kinder's Organic Buttery Steakhouse 10.4 oz, 2-pack",560,Pantry & Dry Goods,15,21.99,0,4.6,437,2010.2
+TruffleHunter Selection 5-piece Bundle ,561,Pantry & Dry Goods,15,79.99,0,3.4,13,44.2
+"Acetum Organic Apple Cider Vinegar with the Mother, 128 fl. oz.",562,Pantry & Dry Goods,15,27.99,0,4.7,571,2683.7
+Kirkland Signature Organic Modena Balsamic Vinegar 2-pack (33.8 oz each),563,Pantry & Dry Goods,15,44.99,0,4.8,23,110.4
+"La Civetta Italian Extra Virgin Olive Oil 3L, Tins, 2-pack",564,Pantry & Dry Goods,15,79.99,0,4.6,308,1416.8
+The Mazzetti Artistry Edition Balsamic Vinegar of Modena 8.45 fl oz.,565,Pantry & Dry Goods,15,36.99,0,4.7,570,2679
+Mazzetti L'Originale Chef's Reduction with Balsamic Vinegar of Modena 2-count,566,Pantry & Dry Goods,15,19.99,0,4.6,680,3128
+"Cottonelle Ultra Clean Bath Tissue, 1-Ply, 312 Sheets, 36 Rolls",567,Paper & Plastic Products,16,31.99,0,4.6,256,1177.6
+"Caboo Bamboo Bath Tissue, 2-Ply, 400 Sheets, 24 Rolls",568,Paper & Plastic Products,16,28.79,0,4.4,316,1390.4
+"Windsoft Bath Tissue, 2-Ply, 284 Sheets, 24 Rolls",569,Paper & Plastic Products,16,26.99,0,3.1,12,37.2
+"Marcal 100% Recycled Bath Tissue, 2-Ply, 168 Sheets, 96 Rolls",570,Paper & Plastic Products,16,56.99,0,2.7,19,51.3
+"Caboo Bamboo Paper Towels, 2-Ply, 75 Sheets, 8 Rolls",571,Paper & Plastic Products,16,28.79,0,4.1,101,414.1
+"Marcal 100% Recycled Paper Towels, 2-Ply, 140 Sheets, 24 Rolls",572,Paper & Plastic Products,16,62.99,0,3.7,15,55.5
+"Viva Multi-Surface Cloth Paper Towels, 2-Ply, 110 Sheets, 24-count",573,Paper & Plastic Products,16,46.99,0,4.2,1076,4519.2
+"Artstyle Paper Plate & Napkin Bundle, Year of the Dragon Lunar New Year, 200-count",574,Paper & Plastic Products,16,28.99,0,5,3,15
+"Artstyle Paper Plate & Napkin Bundle, Confetti Celebration, 200-count",575,Paper & Plastic Products,16,23.99,0,4.7,116,545.2
+"Artstyle Paper Plate & Napkin Bundle, Elegant Floral, 200-count",576,Paper & Plastic Products,16,28.99,0,0,0,0
+"Kleenex Ultra Slim Wallet Facial Tissue, 3-Ply, 10-count, 36-pack",577,Paper & Plastic Products,16,22.49,0,4.7,837,3933.9
+"Eco Raj 9-inch Compostable Bagasse Plate, 500-count",578,Paper & Plastic Products,16,57.99,0,4.7,10,47
+"Eco Raj 6-inch Compostable Bagasse Plate, 1000-count",579,Paper & Plastic Products,16,52.99,0,3.7,6,22.2
+"Eco Raj 10-inch Compostable Bagasse Plate, 500-count",580,Paper & Plastic Products,16,72.99,0,3.5,2,7
+"KeepCool Crossbody Cooler Bag, Gray, 2-count",581,Paper & Plastic Products,16,37.99,0,0,0,0
+"Eco Raj 12 oz Compostable Bagasse Bowl, 1000-count",582,Paper & Plastic Products,16,79.99,0,5,4,20
+"Crescent Foods Halal Hand-Cut Beef, Chicken Combo Pack - 14 Total Packs, 13.5 Lbs. Total",583,Poultry,17,159.99,0,4.2,11,46.2
+"Farmer Focus Organic Boneless/Skinless Chicken Breasts, (20/8 Oz. Per Breast), 20 Total Count, 10 Lbs. Total",584,Poultry,17,149.99,0,4.5,249,1120.5
+"D’Artagnan Green Circle Chicken - Boneless & Skinless Breasts, 12 Total Packs, 11 Lbs. Total",585,Poultry,17,139.99,0,4.4,207,910.8
+"Fully Cooked Confit Duck Legs - (8/1 Lbs. Per Pack), 16 Legs, 8 Total Packs, 8 Lbs. Total",586,Poultry,17,179.99,0,4.5,40,180
+"All Natural Raw Duck Legs - (8/2 Legs Per Pack, 8.5 Oz Per Leg), 16 Total Legs, 8 Total Packs, 8.5 Lbs. Total",587,Poultry,17,149.99,0,4.7,20,94
+"Rastelli’s Antibiotic-Free Turkey Craft Burgers (32/5 Oz. Per Burger), 32 Total Packs, 10 Lbs. Total",588,Poultry,17,99.99,0,4.4,38,167.2
+"Hillshire Farm Slow Roasted Turkey Breast, 11 oz, 3-count",589,Poultry,17,100.99,0,4.5,4,18
+"All Natural Boneless Duck Breast - (8/7 Oz. Per Duck Breast), 16 Total Breasts, 8 Total Packs, 7Lbs. Total",590,Poultry,17,179.99,0,4.6,42,193.2
+"D'Artagnan Whole ABF Pekin Duck, (1/5.25 Lbs. Average Per Duck), 6 Total Packs, 31.5 Lbs. Total ",591,Poultry,17,219.99,0,4.5,140,630
+"Ahi Tuna Individual Vacuum Packed Portion (26-27/6 Oz. Per Portion), 26-27 Total Packs, 10 Lbs. Total Case",592,Seafood,18,149.99,70,4.6,1237,5690.2
+"Alaska Home Pack Frozen Sea Cucumber - 3 Packs, 7 Lbs. Total",593,Seafood,18,239.99,60,4,108,432
+"Lobster With Shell Removed, (9 Oz. Per Pack), 6 Total Packs, 3.44 Lbs. Total",594,Seafood,18,259.99,0,0,0,0
+"Northwest Fish 4-6 Whole Dungeness Crab, 10 lbs",595,Seafood,18,209.99,0,4.2,179,751.8
+"Premium Seafood Variety Pack - 20 Total Packs, Total 12.5 Lbs.",596,Seafood,18,349.99,0,4.4,8,35.2
+"Chicago Steak - Steak & Cake - Filet Mignon, Crab Cakes, and Steak Burgers, Total 13 Packs, 6.5 Lbs. Total",597,Seafood,18,199.99,0,4.5,50,225
+"Northwest Fish Colossal Alaskan Wild Dungeness Crab Sections, 10lbs",598,Seafood,18,219.99,0,4,602,2408
+"Northwest Fish Wild Alaskan Sockeye Salmon Cheddar Bacon Burger Patties, 24-count, 9 lbs",599,Seafood,18,119.99,0,3.5,109,381.5
+Coastal Seafood Frozen Lobster Tails 12 Count (6 - 8  oz.),600,Seafood,18,229.99,0,4.6,349,1605.4
+"Rastelli Market Fresh Jumbo Lump Crab Cakes (20/4 Oz. Per Crab Cake), 20 Total Count, 5 Lbs. Total",601,Seafood,18,199.99,0,3.9,1100,4290
+"Rastelli Petite Filet Mignon & Jumbo Lump Crab Cake Surf & Turf, 24 Total Packs, 6.75 Total Lbs.",602,Seafood,18,349.99,0,4.2,104,436.8
+"Chicago Steak Premium Angus Beef Surf & Turf, 15 Total Packs, 7 Lbs. Total",603,Seafood,18,239.99,0,4.6,335,1541
+"Wild Alaska Snow Crab Meat (Bairdi Crab 8 oz. Pack) 12 Total Packs, 6 Lbs. Total ",604,Seafood,18,279.99,0,0,0,0
+"Northwest Red King Salmon Portions, 12 Total Count, 1 Case Totaling 6 Lbs.",605,Seafood,18,179.99,0,3.4,141,479.4
+"Chicago Steak USDA Prime Surf & Turf, Total 14 Packs, 7 Lbs. Total",606,Seafood,18,299.99,0,4.5,110,495
+"Ahi Tuna Mixed Pack, (12 x 6 oz. Steaks, 9 x 5.3 oz. Saku Slice Packs, 4 x 10.7 oz. Sesame Crusted Steak Packs), 25 Total Packs, 10.15 Lbs. Total",607,Seafood,18,239.99,0,0,0,0
+"Northwest Fish Wild Alaskan Sockeye Salmon Fillets, 10 lbs",608,Seafood,18,219.99,0,4.5,388,1746
+"Smoked New Zealand King Salmon, 1.1lb fillets, 2-count, 2.2 lbs total",609,Seafood,18,109.99,0,4.1,134,549.4
+"Chicago Steak Filet Mignon & Scallop Combo, 14 Total Packs, 7 Lbs. Total",610,Seafood,18,249.99,0,4.6,13,59.8
+" Northwest Fish Wild Alaskan Sockeye Salmon Fillets Total 25 Count, 1 Case Totaling 10 Lbs.",611,Seafood,18,229.99,0,4.4,947,4166.8
+"A5 Wagyu Surf & Turf Pack, Cold Water Lobster Tails & Japanese A5 Wagyu Filet Mignon, Total 4 Packs",612,Seafood,18,379.99,0,4.4,134,589.6
+"Wild Alaska Halibut Bits & Pieces, (8/1 lb Packs) 8 Total Packs, 8 Lbs. Total",613,Seafood,18,159.99,0,0,0,0
+"Seabear Wild Sockeye & King  Smoked Salmon Fillet Duo, Total 2lbs. (1 lb each)",614,Seafood,18,64.99,0,4.4,53,233.2
+"Rastelli Market Fresh Angus Beef Prime Petite Filet Mignons & Wild Caught Maine Lobster Tails, 8 Total Packs, 3 Lbs. Total",615,Seafood,18,189.99,0,4.2,677,2843.4
+"Trident Seafoods Smoked Sockeye Salmon, 2 Gift Packs",616,Seafood,18,59.99,0,4.5,1550,6975
+"SeaBear Smoked Salmon Gift Boxes, 6 oz, 6-pack",617,Seafood,18,79.99,0,4.4,75,330
+"Grizzly Salmon Tartare with Citrus Marinade, (14/4 Oz Packs), 14 Total Packs, Total 3.5 Lbs.",618,Seafood,18,129.99,0,4,41,164
+"Sesame Crusted Ahi Tuna Steaks, 18 Total Packs, 1 Case Totaling 12 Lbs.",619,Seafood,18,269.99,0,4.6,41,188.6
+"Aysen Coho Sashimi Quality Salmon Portions, (6 Oz. Portion Per Pack), 26 to 27 Total Packs, 10 Lbs. Total",620,Seafood,18,169.99,0,1,1,1
+"Aysen Coho Salmon Filets, (4/2-3 Lbs. Per Filet), 4 Total Packs, 8 Lbs. Total",621,Seafood,18,199.99,0,4.4,48,211.2
+"Key West Pink 16/20 Gulf Shrimp Headless Shell-On (3/2Lb Per Bag), Total 3 Packs, 6 Lbs. Total",622,Seafood,18,119.99,0,4.5,26,117
+"Whole Cooked Cold Water Lobsters, (8-9/1.25 Lbs. Each Lobster), 1 Case Totaling 12 Lbs.",623,Seafood,18,259.99,0,2.8,5,14
+"Northwest Fish Wild Alaskan Cod Loins Total 25 Count, 1 Case Totaling 10 Lbs.",624,Seafood,18,169.99,0,4.4,262,1152.8
+"Alaska Black Cod (Sable Fish) - Individual Packed Portions (19-25/6-8 Oz. Per Portion), 1 Case Totaling 10 Lbs.",625,Seafood,18,269.99,0,4.8,190,912
+"Lobster Claws & Arms, Sustainable Wild Caught, North Atlantic, 24-40 Claws & Arms (3-5 Lb. Per.), Total 8Lb. Case",626,Seafood,18,199.99,0,0,0,0
+"Coastal Seafood Live Maine Lobsters, (6/1.25 Lbs. Per Lobster) 6 Total Packs, 7.5 Lbs. Total",627,Seafood,18,179.99,0,2.9,64,185.6
+"Tsar Nicoulai Caviar Sturgeon Pate 6 oz, 6-pack",628,Seafood,18,59.99,0,4.1,114,467.4
+"Cristobal Salted Cod Fillets 2 lbs, 3-pack",629,Seafood,18,69.97,0,4.5,26,117
+"Northwest Fish Sablefish Loins, Skin on, 7 oz, 23-count, 10 lbs",630,Seafood,18,269.99,0,4.3,232,997.6
+"Northwest Fish Halibut Fillets, Skin-On 7-9 oz, 18-count, 10 lbs",631,Seafood,18,249.99,0,4.1,264,1082.4
+"Northwest Fish U-12 Sea Scallops, 6 lbs",632,Seafood,18,219.99,0,4.4,87,382.8
+"American Red Snapper - Whole, Head-On, Cleaned, (5-7 Individually Vacuum Packed Portions/ 1.5-2 Lbs Per Fish) - Total 10Lbs.",633,Seafood,18,189.99,0,4.7,23,108.1
+"Whole Head On, Cleaned Branzino Fish (12-18 Oz. Per Fish), Min 7 Count, 10 Lbs. Total",634,Seafood,18,139.99,0,4.3,3,12.9
+"El Rey Del Pulpo, Large Cooked Octopus Tentacles, 14 oz, 6-pack, 5.25 lbs",635,Seafood,18,159.99,0,4.5,288,1296
+"Mahi Mahi Boneless, (26-27/Skinless 6 Oz. Portions Per Each Pack), 26-27 Total Packs, 1 Case Totaling 10 Lbs.",636,Seafood,18,249.99,0,4.8,84,403.2
+"Tsar Nicoulai Estate Smoked Sturgeon 6 oz, 6-count, 2.25 lbs",637,Seafood,18,79.99,0,4.2,104,436.8
+G2G 3-pack Peanut Butter Chocolate Chip Protein Bars 24-count,638,Snacks,19,39.99,10,4.7,292,1372.4
+G2G 3-pack Peanut Butter Coconut Chocolate Protein Bars 24-count,639,Snacks,19,39.99,10,4.8,273,1310.4
+"G2G 3-pack Peanut Butter & Jelly Protein Bars, 24-count",640,Snacks,19,49.99,0,5,2,10
+"St Michel Madeleine, Classic French Sponge Cake 100 - count",641,Snacks,19,44.99,0,4.1,441,1808.1
+No Sugar Keto Bar (12 count) 2-pack Chocolate Peanut Butter,642,Snacks,19,42.99,0,4.2,243,1020.6
+"Ready Protein Bar, Chocolate Peanut Butter and Sea Salt, 24-count, 2 pack",643,Snacks,19,54.99,0,4.5,437,1966.5
+Shrimp Chips with Garlic and Butter 16 oz 2-pack,644,Snacks,19,27.99,0,4.7,1418,6664.6
+"G2G 3-pack Almond Chocolate Chip Protein Bars, 24-count",645,Snacks,19,49.99,0,5,11,55
+"Savanna Orchards Honey Roasted Nut & Pistachios 30 oz, 2-pack",646,Snacks,19,38.99,0,4.7,2153,10119.1
+G2G Protein Bar Variety 3-pack (24 Total Bars),647,Snacks,19,49.99,0,4.8,101,484.8
+Movie Marathon Gourmet Popcorn Gift Set ,648,Snacks,19,39.99,0,4.1,92,377.2
+"Sonoma Creamery Pepper Jack Crisps, 10 oz",649,Snacks,19,11.99,0,4.6,731,3362.6
+Mary Macleod's Gluten Free Shortbread Cookies Mixed Assortment 8-Pack ,650,Snacks,19,49.99,0,4.2,85,357
+"The Gluten Free Brothers Variety Bites, 6 count",651,Snacks,19,24.99,0,4.4,5,22
+No Sugar Keto Bar Chocolate Chip Cookie Dough  (12-count) 2-Pack ,652,Snacks,19,42.99,0,3.7,82,303.4
+No Sugar Keto Bar Chocolate Mint (12-count) 2-Pack ,653,Snacks,19,42.99,0,3.4,79,268.6
+"No Sugar Shellz Dark Chocolatey Caramel Pecan 25-count, 2-pack",654,Snacks,19,42.99,0,4.7,64,300.8
+Made in Nature USDA Organic Dried Mangos 28 oz  3-pack,655,Snacks,19,64.99,0,4.5,454,2043
+"Made in Nature Organic Berry Fusion 24 oz, 2-pack",656,Snacks,19,39.99,0,4.4,440,1936
+No Sugar Keto Bar (12-count) 2-pack Cookies & Cream,657,Snacks,19,42.99,0,4,128,512
+"Savanna Honey Roasted Mix Nuts, 30 oz, 2-pack",658,Snacks,19,42.99,0,4.6,556,2557.6
+"Popcornopolis Ultimate Classic Assorted Tall Cones, Variety, 24-count",659,Snacks,19,109.99,0,4.7,1103,5184.1
+No Sugar Keto Bar (12-count) 2-pack  Chocolate Fudge Brownie,660,Snacks,19,42.99,0,4.3,117,503.1
+Island Princess Macadamia Popcorn Crunch 24 oz 2-pack,661,Snacks,19,59.99,0,2.8,15,42
+Made in Nature USDA Organic Goji Berries 20 oz 2-pack,662,Snacks,19,39.99,0,4.6,523,2405.8
+"Made In Nature Organic Calimyrna Figs 40 oz, 3-pack",663,Snacks,19,49.99,0,4.6,1819,8367.4
+"Made in Nature USDA Organic Dates 40 oz, 2-pack",664,Snacks,19,32.99,0,4.5,786,3537
+"Mayorga Organic Chia Seeds, USDA Organic, NON-Gmo verified, 3lb, 2-pack",665,Snacks,19,36.99,0,4.7,918,4314.6
+Prevail Variety Grass Fed Beef Jerky 10-pack,666,Snacks,19,49.99,0,4.2,64,268.8
+Prevail Original Grass Fed Beef Jerky 10-pack,667,Snacks,19,49.99,0,4.5,42,189
+"The Gluten Free Brothers Variety Bars, 24 count",668,Snacks,19,29.99,0,0,0,0
+Cherry Bay Orchards No-Added-Sugar Dried Montmorency Cherries 8 oz Bag 2-pack,669,Snacks,19,24.99,0,4,816,3264
+"Hoody's Roasted Unsalted Peanuts 20 lbs, 4-pack",670,Snacks,19,39.99,0,4.6,1352,6219.2
+Our Heroes' Care Pack ,671,Snacks,19,56.99,0,4.8,477,2289.6
+"Around the World 15 oz Spicy Nuts, 2-pack Tin, Total 30 oz",672,Snacks,19,59.99,0,3.2,4,12.8
+"Le Chic Patissier, Original Stroopwafels , 2.77 lb, 3-pack",673,Snacks,19,54.99,0,4.6,819,3767.4
+"Genius Gourmet Variety Crispy Protein Treat, 30-count",674,Snacks,19,39.99,0,4.4,11,48.4
+Savanna Orchards Country Club Mix 30 oz 2-count,675,Snacks,19,32.99,0,4.6,611,2810.6
+"Honey Mama's Classic Variety Truffle Bars, 2.5 oz, 12-ct",676,Snacks,19,49.99,0,0,0,0
+"Honey Mama's Greatest Hits Truffle Bars, 2.5 oz, 12-ct",677,Snacks,19,49.99,0,0,0,0
+"Honey Mama's Cocoa Truffle Bars, 2.5 oz, 12-ct",678,Snacks,19,49.99,0,0,0,0
